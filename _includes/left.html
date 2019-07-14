@@ -31,7 +31,9 @@
         <a href="{{ menu.link | relative_url }}">{{ menu.text }}</a>
       </li>
       {% endfor %}
-      <a href="/docs/cv.pdf">CV</a>
+      <li data-menu-link="{{ menu.link }}">
+        <a href="/docs/cv.pdf">CV</a>
+      </li>
     </ul>
     {% endif %}
   </div>

@@ -1,0 +1,1 @@
+The template for this website is from [this repository](https://github.com/christianezeani/panthera-jekyll). Feel free to fork this template and remember to give credit to [the author](https://github.com/christianezeani). Also please respect the copyrights of my works in `images` and `docs` folders.

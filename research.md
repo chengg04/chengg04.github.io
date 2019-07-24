@@ -4,4 +4,4 @@ layout: default
 
 # Research
 
-coming soon.. Please see my CV to for information.
+coming soon.. Please see my CV for information.

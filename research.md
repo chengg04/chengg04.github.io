@@ -7,7 +7,7 @@ layout: default
 ### Papers under Review
 
 * “Logic-based Benders Decomposition and Binary Decision Diagram Based Approaches for Stochastic Distributed Operating
-Room Scheduling”, C. Guo, M. Bodur, D. Aleman, and D. Urbach, submitted.[[preprint](http://www.optimization-online.org/DB_HTML/2019/07/7320.html)][[poster](/docs/sdors_poster.pdf)]
+Room Scheduling”, C. Guo, M. Bodur, D. Aleman, and D. Urbach, submitted.
 
 ### Work in Progress
 

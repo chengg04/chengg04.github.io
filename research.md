@@ -13,6 +13,9 @@ Room Scheduling”, C. Guo, M. Bodur, D. Aleman, and D. Urbach, submitted.[[prep
 
 * "Profitability in Unit Commitment Problem"
 
+### Data and Online Supplements
+* Data documentation for "Generation Expansion Planning with Revenue Sufficiency Constraints", by Guo, Bodur, and Papageorgiou: [[DataExplanation](/docs/profitability_dataDocumentation.pdf)].
+
 ### Talks
 
 * “Incentive Compatibility for Power System Planning”

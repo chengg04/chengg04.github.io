@@ -4,19 +4,19 @@ layout: default
 
 # Research
 
-### Papers under Review
+### **Papers under Review**
 
 * “Logic-based Benders Decomposition and Binary Decision Diagram Based Approaches for Stochastic Distributed Operating
-Room Scheduling”, C. Guo, M. Bodur, D. Aleman, and D. Urbach, submitted.[[preprint](http://www.optimization-online.org/DB_HTML/2019/07/7320.html)][[poster](/docs/sdors_poster.pdf)]
+Room Scheduling”, C. Guo, M. Bodur, D. Aleman, and D. Urbach, submitted to *INFORMS Journal on Computing*.[[preprint](http://www.optimization-online.org/DB_HTML/2019/07/7320.html)][[poster](/docs/sdors_poster.pdf)]
 
-### Work in Progress
+### **Work in Progress**
 
-* "Profitability in Unit Commitment Problem"
+* "Generation Expansion Planning with Revenue Sufficiency Constraints"
 
-### Data and Online Supplements
+### **Data and Online Supplements**
 * Data documentation for "Generation Expansion Planning with Revenue Sufficiency Constraints", by Guo, Bodur, and Papageorgiou: [[DataExplanation](/docs/profitability_dataDocumentation.pdf)].
 
-### Talks
+### **Talks**
 
 * “Incentive Compatibility for Power System Planning”
 

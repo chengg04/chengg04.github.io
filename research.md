@@ -9,14 +9,14 @@ layout: default
 * “Logic-based Benders Decomposition and Binary Decision Diagram Based Approaches for Stochastic Distributed Operating
 Room Scheduling”, C. Guo, M. Bodur, D. Aleman, and D. Urbach, submitted to *INFORMS Journal on Computing*.[[preprint](http://www.optimization-online.org/DB_HTML/2019/07/7320.html)][[poster](/docs/sdors_poster.pdf)]
 ****
-### Work in Progress{: style="color: navy; opacity: 0.80;" }
+### **Work in Progress**{: style="color: navy; opacity: 0.80;" }
 
 * "Generation Expansion Planning with Revenue Sufficiency Constraints"
 ****
-### Data and Online Supplements{: style="color: navy; opacity: 0.80;" }
+### **Data and Online Supplements**{: style="color: navy; opacity: 0.80;" }
 * Data documentation for "Generation Expansion Planning with Revenue Sufficiency Constraints", by Guo, Bodur, and Papageorgiou: [[DataExplanation](/docs/profitability_dataDocumentation.pdf)].
 ****
-### Talks{: style="color: navy; opacity: 0.80;" }
+### **Talks**{: style="color: navy; opacity: 0.80;" }
 
 * “Incentive Compatibility for Power System Planning”
 

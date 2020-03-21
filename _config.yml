@@ -29,20 +29,23 @@ menu:
 
 # Socialmedia Icons
 social_icons:
-  - name: linkedin
-    link: https://www.linkedin.com/in/chengguo17/
-    icon: fab fa-linkedin
+  - name: twitter
+    link: https://twitter.com/chengg04
+    icon: fab fa-twitter
 
   - name: github
     link: https://github.com/chengg04
     icon: fab fa-github-square
 
+  - name: linkedin
+    link: https://www.linkedin.com/in/chengguo17/
+    icon: fab fa-linkedin
+
 #   - name: facebook
 #     link: https://www.facebook.com/christian.ezeani.cyb
 #     icon: fab fa-facebook-square
 
-#   - name: twitter
-#     link: https://www.twitter.com/christianezeani
-#     icon: fab fa-twitter
+# Google Analytics 
+google_analytics: UA-143782507-1
 
 remote_theme: christianezeani/panthera-jekyll

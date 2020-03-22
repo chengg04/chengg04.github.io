@@ -26,17 +26,17 @@
     border-right: 1px solid #F0F0F0;
     text-align: center;
   }
-
-  &__content {
-    left: 50px;
-    right: 0px;
-    padding: 0px 20px;
-  }
-
-  &__avatar {
-    text-align: right;
-    @include clearfix;
-    @include v-center;
+  // 
+  // &__content {
+  //   left: 50px;
+  //   right: 0px;
+  //   padding: 0px 20px;
+  // }
+  //
+  // &__avatar {
+  //   text-align: right;
+  //   @include clearfix;
+  //   @include v-center;
 
     > * {
       // float: right;

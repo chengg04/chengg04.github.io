@@ -18,7 +18,7 @@ Room Scheduling”, C. Guo, M. Bodur, D. Aleman, and D. Urbach, submitted to *IN
 ----------------
 
 ### **Data and Online Supplements**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
-* Data documentation for "Generation Expansion Planning with Revenue Sufficiency Constraints", by Guo, Bodur, and Papageorgiou: [[DataExplanation](/docs/profitability_dataDocumentation.pdf)].
+* Online supplements for "Generation Expansion Planning with Revenue Sufficiency Constraints", by Guo, Bodur, and Papageorgiou: [[DataExplanation](/docs/profitability_dataDocumentation.pdf)][[AdditionalFigures](/docs/AdditionalFigures.pdf)].
 
 ----------------
 

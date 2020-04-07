@@ -41,11 +41,15 @@ social_icons:
     link: https://www.linkedin.com/in/chengguo17/
     icon: fab fa-linkedin
 
+  - name: google_scholar
+    link: https://scholar.google.com/citations?hl=en&user=fdbGFkAAAAAJ
+    icon: fab fa-google
+
 #   - name: facebook
 #     link: https://www.facebook.com/christian.ezeani.cyb
 #     icon: fab fa-facebook-square
 
-# Google Analytics 
+# Google Analytics
 google_analytics: UA-143782507-1
 
 remote_theme: christianezeani/panthera-jekyll

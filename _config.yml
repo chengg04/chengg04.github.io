@@ -32,7 +32,7 @@ social_icons:
   - name: google_scholar
     link: https://scholar.google.com/citations?hl=en&user=fdbGFkAAAAAJ
     icon: fab fa-google
-    
+
   - name: twitter
     link: https://twitter.com/chengg04
     icon: fab fa-twitter
@@ -41,9 +41,9 @@ social_icons:
     link: https://github.com/chengg04
     icon: fab fa-github-square
 
-  - name: linkedin
-    link: https://www.linkedin.com/in/chengguo17/
-    icon: fab fa-linkedin
+  # - name: linkedin
+  #   link: https://www.linkedin.com/in/chengguo17/
+  #   icon: fab fa-linkedin
 
 #   - name: facebook
 #     link: https://www.facebook.com/christian.ezeani.cyb

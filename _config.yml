@@ -53,3 +53,7 @@ social_icons:
 google_analytics: UA-143782507-1
 
 remote_theme: christianezeani/panthera-jekyll
+
+# Create a sitemap for Google search console.
+plugins:
+  - jekyll-sitemap

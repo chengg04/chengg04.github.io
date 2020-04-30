@@ -29,7 +29,7 @@ Room Scheduling”, C. Guo, M. Bodur, D. Aleman, and D. Urbach, submitted to *IN
 * “Generation Expansion Planning with Revenue Adequacy Constraints”
 
   * INFORMS Annual Meeting, Seattle, WA, October 2019
-  * MINLP Workshop (poster), Montreal, QC, October 2019
+  * DIMACS Workshop on MINLP (poster), Montreal, QC, October 2019
   * Optimization Days, Montreal, QC, May 2019
 
 

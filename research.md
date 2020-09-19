@@ -9,7 +9,7 @@ layout: default
 * “Generation Expansion Planning with Revenue Adequacy Constraints”, C. Guo, M. Bodur, D. Papageorgiou, submitted. [[preprint](http://www.optimization-online.org/DB_HTML/2020/04/7725.html)][[poster](/docs/MINLP2019_Poster.pdf)]
 
 * “Logic-based Benders Decomposition and Binary Decision Diagram Based Approaches for Stochastic Distributed Operating
-Room Scheduling”, C. Guo, M. Bodur, D. Aleman, and D. Urbach, submitted to *INFORMS Journal on Computing*.[[preprint](http://www.optimization-online.org/DB_HTML/2019/07/7320.html)][[poster](/docs/sdors_poster.pdf)]
+Room Scheduling”, C. Guo, M. Bodur, D. Aleman, and D. Urbach, minor revision in *INFORMS Journal on Computing*.[[preprint](http://www.optimization-online.org/DB_HTML/2019/07/7320.html)][[poster](/docs/sdors_poster.pdf)]
 
 ----------------
 

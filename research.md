@@ -22,6 +22,9 @@ Room Scheduling”, C. Guo, M. Bodur, D. Aleman, and D. Urbach, minor revision i
 ### **Data and Online Supplements**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 * Online supplements for "Generation Expansion Planning with Revenue Sufficiency Constraints", by Guo, Bodur, and Papageorgiou: [[DataExplanation](/docs/profitability_dataDocumentation.pdf)][[AdditionalFigures](/docs/AdditionalFigures.pdf)].
 
+* Data for “Logic-based Benders Decomposition and Binary Decision Diagram Based Approaches for Stochastic Distributed Operating
+Room Scheduling”, by Guo, Bodur, Aleman, and Urbach: [[DataExplanation](/docs/SDORS_DataDescription.pdf)][[Dataset](/docs/SDORS_Instances.zip)].
+
 ----------------
 
 ### **Talks**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }

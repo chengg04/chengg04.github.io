@@ -4,13 +4,14 @@ layout: default
 
 # Research
 
+### **Journal Articles**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
+
+* “Logic-based Benders Decomposition and Binary Decision Diagram Based Approaches for Stochastic Distributed Operating
+Room Scheduling”, C. Guo, M. Bodur, D. Aleman, and D. Urbach, to appear in *INFORMS Journal on Computing*.[[preprint](http://www.optimization-online.org/DB_HTML/2019/07/7320.html)][[poster](/docs/sdors_poster.pdf)]
+
 ### **Papers under Review**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
 * “Generation Expansion Planning with Revenue Adequacy Constraints”, C. Guo, M. Bodur, D. Papageorgiou, submitted. [[preprint](http://www.optimization-online.org/DB_HTML/2020/04/7725.html)][[poster](/docs/MINLP2019_Poster.pdf)]
-
-* “Logic-based Benders Decomposition and Binary Decision Diagram Based Approaches for Stochastic Distributed Operating
-Room Scheduling”, C. Guo, M. Bodur, D. Aleman, and D. Urbach, minor revision in *INFORMS Journal on Computing*.[[preprint](http://www.optimization-online.org/DB_HTML/2019/07/7320.html)][[poster](/docs/sdors_poster.pdf)]
-
 ----------------
 
 ### **Work in Progress**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }

@@ -4,13 +4,13 @@ layout: default
 
 # Research
 
-### <em>Journal Articles</em>{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
+### <b>Journal Articles</b>{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* “Logic-based Benders Decomposition and Binary Decision Diagram Based Approaches for Stochastic Distributed Operating Room Scheduling”, **C. Guo**, M. Bodur, D. Aleman, and D. Urbach, accepted for publication in *INFORMS Journal on Computing*, (2020).[[preprint](http://www.optimization-online.org/DB_HTML/2019/07/7320.html)][[poster](/docs/sdors_poster.pdf)]
+* “Logic-based Benders Decomposition and Binary Decision Diagram Based Approaches for Stochastic Distributed Operating Room Scheduling”, **C. Guo**, M. Bodur, D. Aleman, and D. Urbach, accepted for publication in *INFORMS Journal on Computing*, (2020).[[<u>preprint</u>](http://www.optimization-online.org/DB_HTML/2019/07/7320.html)][[<u>poster</u>](/docs/sdors_poster.pdf)]
 
 ### **Submitted**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* “Generation Expansion Planning with Revenue Adequacy Constraints”, **C. Guo**, M. Bodur, D. Papageorgiou, submitted, (2020). [[<u>preprint</u>](http://www.optimization-online.org/DB_HTML/2020/04/7725.html)][[poster](/docs/MINLP2019_Poster.pdf)]
+* “Generation Expansion Planning with Revenue Adequacy Constraints”, **C. Guo**, M. Bodur, D. Papageorgiou, submitted, (2020). [[<u>preprint</u>](http://www.optimization-online.org/DB_HTML/2020/04/7725.html)][[<u>poster</u>](/docs/MINLP2019_Poster.pdf)]
 
 ### **Work in Progress**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
@@ -32,7 +32,7 @@ layout: default
 
 * "Copositive Programming for Discrete Markets and Games with a Novel Cutting Plane Algorithm"
 
-  * [**(upcoming) INFORMS Annual Meeting, November 9th, 2020, session number MC35, Virtual Room 35**](https://www.abstractsonline.com/pp8/#!/9022/session/2348)
+  * [<u>(upcoming) INFORMS Annual Meeting, November 9th, 2020, session number MC35, Virtual Room 35</u>](https://www.abstractsonline.com/pp8/#!/9022/session/2348)
 
 * “Generation Expansion Planning with Revenue Adequacy Constraints”
 

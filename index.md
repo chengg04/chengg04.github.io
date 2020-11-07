@@ -13,7 +13,7 @@ I received my B.A. in Economics and B.S. in Mathematics from Wuhan University in
 
 Please contact me at: <img src ="/images/email_comic_bold.png" alt = "email image"/>
 
-### **Research Interests**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
+### <b>Research Interests</b>{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
 * Methodologies: Copositive Programming, Stochastic programming, Integer programming, Mixed-integer nonlinear programming, Decomposition methods.
 

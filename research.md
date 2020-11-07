@@ -4,7 +4,7 @@ layout: default
 
 # Research
 
-### Journal Articles{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
+### **Journal Articles**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
 * “Logic-based Benders Decomposition and Binary Decision Diagram Based Approaches for Stochastic Distributed Operating Room Scheduling”, **C. Guo**, M. Bodur, D. Aleman, and D. Urbach, accepted for publication in *INFORMS Journal on Computing*, (2020).[[<u>preprint</u>](http://www.optimization-online.org/DB_HTML/2019/07/7320.html)][[<u>poster</u>](/docs/sdors_poster.pdf)]
 
@@ -51,11 +51,9 @@ layout: default
 ----------------
 
 ### **Data and Online Supplements**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
-* Online supplements for "Generation Expansion Planning with Revenue Sufficiency Constraints", by Guo, Bodur, and Papageorgiou: [[DataExplanation](/docs/profitability_dataDocumentation.pdf)][[AdditionalFigures](/docs/AdditionalFigures.pdf)].
+* Online supplements for "Generation Expansion Planning with Revenue Sufficiency Constraints", by Guo, Bodur, and Papageorgiou: [[<u>DataExplanation</u>](/docs/profitability_dataDocumentation.pdf)][[<u>AdditionalFigures</u>](/docs/AdditionalFigures.pdf)].
 
 * Data for “Logic-based Benders Decomposition and Binary Decision Diagram Based Approaches for Stochastic Distributed Operating
-Room Scheduling”, by Guo, Bodur, Aleman, and Urbach: [[DataExplanation](/docs/SDORS_DataDescription.pdf)][[Dataset](/docs/SDORS_Instances.zip)].
+Room Scheduling”, by Guo, Bodur, Aleman, and Urbach: [[<u>DataExplanation</u>](/docs/SDORS_DataDescription.pdf)][[<u>Dataset</u>](/docs/SDORS_Instances.zip)].
 
-p {
-    padding-bottom: 3cm;
-}
+<spacer type="vertical" width="100" height="100">

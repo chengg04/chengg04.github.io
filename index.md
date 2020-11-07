@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-I am on the academic job market for the year 2020-2021.
+I am on the 2020-2021 academic job market.
 
 I’m a fourth-year Ph.D. student in Operations Research at University of Toronto. I work with [<u>Prof. Merve Bodur</u>](https://sites.google.com/site/mervebodr/). The goal of my research is to develop novel optimization models and efficient solution algorithms that address challenging economic and engineering problems. I develop application-specific models and new methods, employing a combination of copositive, stochastic, and mixed-integer nonlinear optimization techniques and decomposition algorithms, including prior works in energy markets, power systems, and healthcare.
 <!-- My research interests include stochastic and integer programming methodologies, healthcare, and power system. -->

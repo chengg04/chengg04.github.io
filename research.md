@@ -10,13 +10,13 @@ layout: default
 
 ### **Submitted**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* “Generation Expansion Planning with Revenue Adequacy Constraints”, **C. Guo**, M. Bodur, D. Papageorgiou, submitted, (2020). [[preprint](http://www.optimization-online.org/DB_HTML/2020/04/7725.html)][[poster](/docs/MINLP2019_Poster.pdf)]
+* “Generation Expansion Planning with Revenue Adequacy Constraints”, **C. Guo**, M. Bodur, D. Papageorgiou, submitted, (2020). [[<u>preprint </u>](http://www.optimization-online.org/DB_HTML/2020/04/7725.html)][[poster](/docs/MINLP2019_Poster.pdf)]
 
 ### **Work in Progress**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
 * “Generation Expansion Planning with Revenue Adequacy Constraints”, **C. Guo**, M. Bodur, J. A. Taylor, in preparation for *Operations Research*.
 
-  * Job market paper. Manuscript available upon request.
+  * *Job market paper*. Manuscript available upon request.
 
 * "A Multistage Stochastic Integer Programming Approach to Distributed Operating Room Scheduling", A. Deza, **C. Guo**, M. Bodur, in preparation for *INFORMS Journal on Computing*.
 

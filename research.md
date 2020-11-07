@@ -4,7 +4,7 @@ layout: default
 
 # Research
 
-### <b>Journal Articles</b>{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
+### Journal Articles{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
 * “Logic-based Benders Decomposition and Binary Decision Diagram Based Approaches for Stochastic Distributed Operating Room Scheduling”, **C. Guo**, M. Bodur, D. Aleman, and D. Urbach, accepted for publication in *INFORMS Journal on Computing*, (2020).[[<u>preprint</u>](http://www.optimization-online.org/DB_HTML/2019/07/7320.html)][[<u>poster</u>](/docs/sdors_poster.pdf)]
 
@@ -55,3 +55,7 @@ layout: default
 
 * Data for “Logic-based Benders Decomposition and Binary Decision Diagram Based Approaches for Stochastic Distributed Operating
 Room Scheduling”, by Guo, Bodur, Aleman, and Urbach: [[DataExplanation](/docs/SDORS_DataDescription.pdf)][[Dataset](/docs/SDORS_Instances.zip)].
+
+p {
+    padding-bottom: 3cm;
+}

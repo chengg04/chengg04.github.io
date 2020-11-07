@@ -27,3 +27,6 @@ Please contact me at: <img src ="/images/email_comic_bold.png" alt = "email imag
 
 <!-- Aug/01/2019: We submitted our paper "Logic-based Benders Decomposition and Binary Decision Diagram Based Approaches for Stochastic Distributed Operating
 Room Scheduling". -->
+&nbsp;
+&nbsp;
+&nbsp;

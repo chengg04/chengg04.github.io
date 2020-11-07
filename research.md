@@ -56,4 +56,6 @@ layout: default
 * Data for “Logic-based Benders Decomposition and Binary Decision Diagram Based Approaches for Stochastic Distributed Operating
 Room Scheduling”, by Guo, Bodur, Aleman, and Urbach: [[<u>DataExplanation</u>](/docs/SDORS_DataDescription.pdf)][[<u>Dataset</u>](/docs/SDORS_Instances.zip)].
 
-<spacer type="vertical" width="100" height="100">
+&nbsp;
+&nbsp;
+&nbsp;

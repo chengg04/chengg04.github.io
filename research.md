@@ -14,7 +14,9 @@ layout: default
 
 ### **Work in Progress**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* “Generation Expansion Planning with Revenue Adequacy Constraints”, **C. Guo**, M. Bodur, J. A. Taylor, in preparation for *Operations Research*. Manuscript available upon request.
+* “Generation Expansion Planning with Revenue Adequacy Constraints”, **C. Guo**, M. Bodur, J. A. Taylor, in preparation for *Operations Research*.
+
+  * Job market paper. Manuscript available upon request.
 
 * "A Multistage Stochastic Integer Programming Approach to Distributed Operating Room Scheduling", A. Deza, **C. Guo**, M. Bodur, in preparation for *INFORMS Journal on Computing*.
 
@@ -23,13 +25,14 @@ layout: default
 * "Cycle-based Polynomial Constraints for Tightening the Quadratic Convex Relaxations of the Alternating Current Optimal Power Flow Problem", **C. Guo**, M. Bodur, H. Nagarajan, working paper.
 
 * "Learning for Cutting-plane Selection in Two-stage Stochastic Integer Programming", **C. Guo**, M. Bodur, M. Cevik, working paper.
+
 ----------------
 
 ### **Talks**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
 * "Copositive Programming for Discrete Markets and Games with a Novel Cutting Plane Algorithm"
 
-  * **(upcoming) INFORMS Annual Meeting, November 9th, 2020, [[session number MC35, Virtual Room 35](https://www.abstractsonline.com/pp8/#!/9022/session/2348)]**
+  * [**(upcoming) INFORMS Annual Meeting, November 9th, 2020, session number MC35, Virtual Room 35**](https://www.abstractsonline.com/pp8/#!/9022/session/2348)
 
 * “Generation Expansion Planning with Revenue Adequacy Constraints”
 
@@ -44,6 +47,7 @@ layout: default
   * MIP Workshop (poster), Boston, MA, July 2019
   * INFORMS Computing Society Conference, Knoxville, TN, January 2019
   * MIE Graduate Research Symposium (poster), Toronto, ON, June 2018
+
 ----------------
 
 ### **Data and Online Supplements**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }

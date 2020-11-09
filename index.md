@@ -11,7 +11,7 @@ I'm a fourth-year Ph.D. student in Operations Research at University of Toronto 
 
 For future research, I will further explore problems in the intersection of engineering and economics. In the short term, I will continue to study the market design and algorithms for nonconvex power systems and energy markets. In the long run, I am interested in leveraging computational tools including optimization and machine learning to bring insights to economic problems, such as energy markets, power system planning, pricing, and mechanism design for social good. I am also interested in developing algorithms to improve the solvability of those problems and other challenging optimization problems, with an emphasize on nonconvex and stochastic optimization problems. I would like my research to connect theory and practice, and to help practitioners to make more accurate predictions and better decisions.
 
-I received my B.A. in Economics and B.S. in Mathematics from Wuhan University in 2015, and M.S. in Operations Research from Columbia University in 2017. You can find my CV [<u>here</u>](/docs/cv.pdf).
+I received my B.A. in Economics and B.S. in Mathematics from Wuhan University in 2015, and M.S. in Operations Research from Columbia University in 2017. You can find my CV [<u>here</u>](/docs/cv_ChengGuo.pdf).
 
 Please contact me at: <img src ="/images/email_comic_bold.png" alt = "email image"/>
 

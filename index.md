@@ -27,7 +27,9 @@ Please contact me at: <img src ="/images/email_comic_bold.png" alt = "email imag
 
 # News
 
-* Nov/09/2020: I will be giving the talk "Copositive Programming For Discrete Markets And Games With A Novel Cutting Plane Algorithm" at [<u>2020 INFORMS, session number MC35, Virtual Room 35</u>](https://cattendee.abstractsonline.com/meeting/9022/presentation/6087). Welcome to my talk!
+* I will be giving the talk "Copositive Duality For Discrete Markets And Games" at [<u>Discrete Optimization Talks (DOTs)</u>](https://talks.discreteopt.com/home#h.p8gcs6etflcy), 2:00 p.m. - 4:00 p.m. ET on December 4th, 2020.
+
+<!-- * Nov/09/2020: I will be giving the talk "Copositive Programming For Discrete Markets And Games With A Novel Cutting Plane Algorithm" at [<u>2020 INFORMS, session number MC35, Virtual Room 35</u>](https://cattendee.abstractsonline.com/meeting/9022/presentation/6087). Welcome to my talk! -->
 
 <!-- Aug/01/2019: We submitted our paper "Logic-based Benders Decomposition and Binary Decision Diagram Based Approaches for Stochastic Distributed Operating
 Room Scheduling". -->

@@ -14,7 +14,7 @@ layout: default
 
 ### **Work in Progress**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* “Generation Expansion Planning with Revenue Adequacy Constraints”, **C. Guo**, M. Bodur, J. A. Taylor, in preparation for *Operations Research*.[[<u>talk</u>](https://cattendee.abstractsonline.com/meeting/9022/presentation/6087)]
+* “Copositive Duality for Discrete Markets and Games”, **C. Guo**, M. Bodur, J. A. Taylor, in preparation for *Operations Research*.[[<u>talk</u>](https://cattendee.abstractsonline.com/meeting/9022/presentation/6087)]
 
   * *Job market paper*. Manuscript available upon request.
 
@@ -30,8 +30,9 @@ layout: default
 
 ### **Talks**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* "Copositive Programming for Discrete Markets and Games with a Novel Cutting Plane Algorithm"
+* "Copositive Duality for Discrete Markets and Games"
 
+  * [<u>Discrete Optimization Talks (DOTs), Virtual, December 2019 (upcoming)</u>](https://talks.discreteopt.com/home#h.p8gcs6etflcy)
   * [<u>INFORMS Annual Meeting, November 9th, 2020, session number MC35, Virtual Room 35</u>](https://cattendee.abstractsonline.com/meeting/9022/presentation/6087)
 
 * “Generation Expansion Planning with Revenue Adequacy Constraints”

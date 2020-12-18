@@ -14,7 +14,7 @@ layout: default
 
 ### **Work in Progress**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* “Copositive Duality for Discrete Markets and Games”, **C. Guo**, M. Bodur, J. A. Taylor, in preparation for *Operations Research*.[[<u>talk</u>](https://cattendee.abstractsonline.com/meeting/9022/presentation/6087)]
+* “Copositive Duality for Discrete Markets and Games”, **C. Guo**, M. Bodur, J. A. Taylor, in preparation for *Operations Research*.[[<u>talk (DOTs)</u>](https://www.youtube.com/watch?v=ihDWyAHSMJ4&t=1s&ab_channel=DiscreteOptimizationTalks)]
 
   * *Job market paper*. Manuscript available upon request.
 

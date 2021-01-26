@@ -10,13 +10,13 @@ layout: default
 
 ### **Submitted**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* “Generation Expansion Planning with Revenue Adequacy Constraints”, **C. Guo**, M. Bodur, D. Papageorgiou, submitted to Computers & Operations Research, (2020). [[<u>preprint</u>](http://www.optimization-online.org/DB_HTML/2020/04/7725.html)][[<u>poster</u>](/docs/MINLP2019_Poster.pdf)]
-
-### **Work in Progress**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
-
-* “Copositive Duality for Discrete Markets and Games”, **C. Guo**, M. Bodur, J. A. Taylor, in preparation for *Operations Research*.[[<u>preprint</u>](https://arxiv.org/abs/2101.05379)][[<u>talk (DOTs)</u>](https://www.youtube.com/watch?v=ihDWyAHSMJ4&t=1s&ab_channel=DiscreteOptimizationTalks)][[<u>poster</u>](/docs/COP_Poster.pdf)]
+* “Copositive Duality for Discrete Markets and Games”, **C. Guo**, M. Bodur, J. A. Taylor, submitted to *Operations Research*, (2021).[[<u>preprint</u>](https://arxiv.org/abs/2101.05379)][[<u>talk (DOTs)</u>](https://www.youtube.com/watch?v=ihDWyAHSMJ4&t=1s&ab_channel=DiscreteOptimizationTalks)][[<u>poster</u>](/docs/COP_Poster.pdf)]
 
   * *Job market paper*.
+
+* “Generation Expansion Planning with Revenue Adequacy Constraints”, **C. Guo**, M. Bodur, D. Papageorgiou, submitted to *Computers & Operations Research*, (2020). [[<u>preprint</u>](http://www.optimization-online.org/DB_HTML/2020/04/7725.html)][[<u>poster</u>](/docs/MINLP2019_Poster.pdf)]
+
+### **Work in Progress**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
 * "A Multistage Stochastic Integer Programming Approach to Distributed Operating Room Scheduling", A. Deza, **C. Guo**, M. Bodur, in preparation for *INFORMS Journal on Computing*.
 

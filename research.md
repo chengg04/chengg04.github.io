@@ -32,8 +32,9 @@ layout: default
 
 * "Copositive Duality for Discrete Markets and Games"
 
-  * [<u>Discrete Optimization Talks (DOTs), Virtual, December 2020</u>](https://talks.discreteopt.com/home#h.p8gcs6etflcy)
-  * [<u>INFORMS Annual Meeting, November 2020, session number MC35, Virtual Room 35</u>](https://cattendee.abstractsonline.com/meeting/9022/presentation/6087)
+  * Grid Science Winter School (poster), Virtual, January 2021
+  * Discrete Optimization Talks (DOTs), Virtual, December 2020
+  * INFORMS Annual Meeting, Virtual, November 2020
 
 * “Generation Expansion Planning with Revenue Adequacy Constraints”
 

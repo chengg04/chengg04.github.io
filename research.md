@@ -14,7 +14,7 @@ layout: default
 
   * *Job market paper*.
 
-* “Generation Expansion Planning with Revenue Adequacy Constraints”, **C. Guo**, M. Bodur, D. Papageorgiou, submitted to *Computers & Operations Research*, (2020). [[<u>preprint</u>](http://www.optimization-online.org/DB_HTML/2020/04/7725.html)][[<u>poster</u>](/docs/MINLP2019_Poster.pdf)]
+* “Generation Expansion Planning with Revenue Adequacy Constraints”, **C. Guo**, M. Bodur, D. Papageorgiou, major revision in *Computers & Operations Research*, (2021). [[<u>preprint</u>](http://www.optimization-online.org/DB_HTML/2020/04/7725.html)][[<u>poster</u>](/docs/MINLP2019_Poster.pdf)]
 
 ### **Work in Progress**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 

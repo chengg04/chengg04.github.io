@@ -19,7 +19,8 @@ Please contact me at: guocheng0@gmail.com
 * Application areas: Energy markets, Nonconvex market pricing, Power systems, Computational mechanism design, Healthcare.
 
 * Methodologies: Copositive Programming, Stochastic programming, Integer programming, Mixed-integer nonlinear programming, Decomposition methods.
-<!-- &nbsp; -->
+
+&nbsp;
 
 **Prospective students**: I am actively looking for students with background in optimization, data analytics, energy markets, and computational economics, to start in Fall 2022. If you are interested in working with me, feel free to send me an email and include an introduction of your background & research interests.
 

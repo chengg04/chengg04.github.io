@@ -29,9 +29,9 @@ I am actively looking for students with background in optimization, data analyti
 
 # News
 
-<!-- * September 6th, 2021: Staying in New York City for a school year. Let me know if you are around!  -->
-
 * August 5th, 2021: Defended my Ph.D..
+
+<!-- * September 6th, 2021: Staying in New York City for a school year. Let me know if you are around!  -->
 
 <!-- * I will give the talk "Copositive Duality For Discrete Markets And Games" at [<u>Discrete Optimization Talks (DOTs)</u>](https://talks.discreteopt.com/home#h.p8gcs6etflcy), 2:00 p.m. - 4:00 p.m. ET on December 4th, 2020. -->
 

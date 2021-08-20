@@ -8,23 +8,19 @@ Starting Fall 2021, I will become an Assistant Professor in the School of Mathem
 
 I obtained my Ph.D. in Industrial Engineering at University of Toronto, advised by [<u>Merve Bodur</u>](https://sites.google.com/site/mervebodr/). I received M.S. in Operations Research from Columbia University in 2017, and my B.A. in Economics and B.S. in Mathematics from Wuhan University in 2015. You can find my CV [<u>here</u>](/docs/cv_ChengGuo.pdf).
 
+Please contact me at: <img src ="/images/email_comic_bold.png" alt = "email image"/>.
+
 ### <em>Research Interests</em>{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
 * Application areas: Energy markets, Nonconvex market pricing, Power systems, Computational mechanism design, Healthcare.
 
 * Methodologies: Copositive Programming, Stochastic programming, Integer programming, Mixed-integer nonlinear programming, Decomposition methods.
+<!-- &nbsp; -->
 
-&nbsp;
+### <em>Prospective Students</em>{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-### **Email**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
+I am actively looking for students with background in optimization, data analytics, energy markets, and computational economics, to start in Fall 2022. If you are interested in working with me, feel free to send me an email and include an introduction of your background & research interests.
 
-Please contact me at: <img src ="/images/email_comic_bold.png" alt = "email image"/>
-
-&nbsp;
-
-### **Students**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
-
-I am actively looking for students with background in optimization, data analytics, energy markets, and computational economics, to start in Fall 2022. If you are interested in working with me, please feel free to send me an email and include an introduction of your background & research interests.
 ----------------
 
 # News

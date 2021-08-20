@@ -60,3 +60,7 @@ plugins:
 
 gems:
 - jekyll-seo-tag
+
+left_side:
+  background_color: "#522D80"
+  close_button_color: "#522D80"

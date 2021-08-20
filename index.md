@@ -4,30 +4,36 @@ layout: default
 
 # About Me
 
-I am on the 2020-2021 academic job market.
+Starting Fall 2021, I will become an Assistant Professor in the School of Mathematical & Statistical Sciences at Clemson University (Research area: Operations Research).
 
-I'm a fourth-year Ph.D. student in Operations Research at University of Toronto advised by [<u>Merve Bodur</u>](https://sites.google.com/site/mervebodr/). The goal of my research is to develop novel optimization models and efficient solution algorithms that address challenging economic and engineering problems. I develop application-specific models and new methods, employing a combination of copositive, stochastic, and mixed-integer nonlinear optimization techniques and decomposition algorithms, including prior works in energy markets, power systems, and healthcare.
-<!-- My research interests include stochastic and integer programming methodologies, healthcare, and power system. -->
+I obtained my Ph.D. in Industrial Engineering at University of Toronto, advised by [<u>Merve Bodur</u>](https://sites.google.com/site/mervebodr/). I received M.S. in Operations Research from Columbia University in 2017, and my B.A. in Economics and B.S. in Mathematics from Wuhan University in 2015. You can find my CV [<u>here</u>](/docs/cv_ChengGuo.pdf).
 
-For future research, I will further explore problems in the intersection of engineering and economics. In the short term, I will continue to study the market design and algorithms for nonconvex power systems and energy markets. In the long run, I am interested in leveraging computational tools including optimization and machine learning to bring insights to economic problems, such as energy markets, power system planning, pricing, and mechanism design for social good. I am also interested in developing algorithms to improve the solvability of those problems and other challenging optimization problems, with an emphasis on nonconvex and stochastic optimization problems. I would like my research to connect theory and practice, and to help practitioners making more accurate predictions and better decisions.
+### <em>Research Interests</em>{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-I received my B.A. in Economics and B.S. in Mathematics from Wuhan University in 2015, and M.S. in Operations Research from Columbia University in 2017. You can find my CV [<u>here</u>](/docs/cv_ChengGuo.pdf).
+* Application areas: Energy markets, Nonconvex market pricing, Power systems, Computational mechanism design, Healthcare.
+
+* Methodologies: Copositive Programming, Stochastic programming, Integer programming, Mixed-integer nonlinear programming, Decomposition methods.
+
+&nbsp;
+
+### **Email**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
 Please contact me at: <img src ="/images/email_comic_bold.png" alt = "email image"/>
 
 &nbsp;
 
-### <em>Research Interests</em>{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
+### **Students**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* Methodologies: Copositive Programming, Stochastic programming, Integer programming, Mixed-integer nonlinear programming, Decomposition methods.
-
-* Application areas: Energy markets, Power systems, Computational mechanism design, Healthcare.
-
+I am actively looking for students with background in optimization, data analytics, energy markets, and computational economics, to start in Fall 2022. If you are interested in working with me, please feel free to send me an email and include an introduction of your background & research interests.
 ----------------
 
 # News
 
-* I will give the talk "Copositive Duality For Discrete Markets And Games" at [<u>Discrete Optimization Talks (DOTs)</u>](https://talks.discreteopt.com/home#h.p8gcs6etflcy), 2:00 p.m. - 4:00 p.m. ET on December 4th, 2020.
+<!-- * September 6th, 2021: Staying in New York City for a school year. Let me know if you are around!  -->
+
+* August 5th, 2021: Defended my Ph.D..
+
+<!-- * I will give the talk "Copositive Duality For Discrete Markets And Games" at [<u>Discrete Optimization Talks (DOTs)</u>](https://talks.discreteopt.com/home#h.p8gcs6etflcy), 2:00 p.m. - 4:00 p.m. ET on December 4th, 2020. -->
 
 <!-- * Nov/09/2020: I will be giving the talk "Copositive Programming For Discrete Markets And Games With A Novel Cutting Plane Algorithm" at [<u>2020 INFORMS, session number MC35, Virtual Room 35</u>](https://cattendee.abstractsonline.com/meeting/9022/presentation/6087). Welcome to my talk! -->
 

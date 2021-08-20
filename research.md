@@ -6,25 +6,21 @@ layout: default
 
 ### **Journal Articles**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* “Logic-based Benders Decomposition and Binary Decision Diagram Based Approaches for Stochastic Distributed Operating Room Scheduling”, **C. Guo**, M. Bodur, D. Aleman, and D. Urbach, accepted for publication in *INFORMS Journal on Computing*, (2020).[[<u>preprint</u>](http://www.optimization-online.org/DB_HTML/2019/07/7320.html)][[<u>poster</u>](/docs/sdors_poster.pdf)]
+* “Logic-based Benders Decomposition and Binary Decision Diagram Based Approaches for Stochastic Distributed Operating Room Scheduling”, **C. Guo**, M. Bodur, D. Aleman, and D. Urbach, *INFORMS Journal on Computing*, 2021.[[<u>paper</u>](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2020.1036)][[<u>poster</u>](/docs/sdors_poster.pdf)]
 
 ### **Submitted**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* “Copositive Duality for Discrete Markets and Games”, **C. Guo**, M. Bodur, J. A. Taylor, submitted to *Operations Research*, (2021).[[<u>preprint</u>](https://arxiv.org/abs/2101.05379)][[<u>talk (DOTs)</u>](https://www.youtube.com/watch?v=ihDWyAHSMJ4&t=1s&ab_channel=DiscreteOptimizationTalks)][[<u>poster</u>](/docs/COP_Poster.pdf)]
+* “Copositive Duality for Discrete Markets and Games”, **C. Guo**, M. Bodur, J. A. Taylor, submitted, 2021.[[<u>preprint</u>](https://arxiv.org/abs/2101.05379)][[<u>talk (DOTs)</u>](https://www.youtube.com/watch?v=ihDWyAHSMJ4&t=1s&ab_channel=DiscreteOptimizationTalks)][[<u>poster</u>](/docs/COP_Poster.pdf)]
 
-  * *Job market paper*.
-
-* “Generation Expansion Planning with Revenue Adequacy Constraints”, **C. Guo**, M. Bodur, D. Papageorgiou, major revision in *Computers & Operations Research*, (2021). [[<u>preprint</u>](http://www.optimization-online.org/DB_HTML/2020/04/7725.html)][[<u>poster</u>](/docs/MINLP2019_Poster.pdf)]
+* “Generation Expansion Planning with Revenue Adequacy Constraints”, **C. Guo**, M. Bodur, D. Papageorgiou, under review, 2021. [[<u>preprint</u>](http://www.optimization-online.org/DB_HTML/2020/04/7725.html)][[<u>poster</u>](/docs/MINLP2019_Poster.pdf)]
 
 ### **Work in Progress**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* "A Multistage Stochastic Integer Programming Approach to Distributed Operating Room Scheduling", A. Deza, **C. Guo**, M. Bodur, in preparation for *INFORMS Journal on Computing*.
+* "A Multistage Stochastic Integer Programming Approach to Distributed Operating Room Scheduling", A. Deza, **C. Guo**, M. Bodur, in preparation.
 
   * Selected as a finalist in 2020 INFORMS Undergraduate OR Prize Competition.
 
 * "Cycle-based Polynomial Constraints for Tightening the Quadratic Convex Relaxations of the Alternating Current Optimal Power Flow Problem", **C. Guo**, M. Bodur, H. Nagarajan, working paper.
-
-* "Learning for Cutting-plane Selection in Two-stage Stochastic Integer Programming", **C. Guo**, M. Bodur, M. Cevik, working paper.
 
 ----------------
 
@@ -32,6 +28,11 @@ layout: default
 
 * "Copositive Duality for Discrete Markets and Games"
 
+  * INFORMS Annual Meeting, Anaheim, CA, October 2021 (upcoming)
+  * International Conference on Game Theory (poster), Virtual, July 2021
+  * IPCO Conference (poster), Virtual, June 2021
+  * CORS Annual Conference, Virtual, June 2021
+  * MIP Workshop (poster), Virtual, May 2021
   * Grid Science Winter School (poster), Virtual, January 2021
   * Discrete Optimization Talks (DOTs), Virtual, December 2020
   * INFORMS Annual Meeting, Virtual, November 2020

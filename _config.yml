@@ -57,3 +57,6 @@ remote_theme: christianezeani/panthera-jekyll
 # Create a sitemap for Google search console.
 plugins:
   - jekyll-sitemap
+
+gems:
+- jekyll-seo-tag

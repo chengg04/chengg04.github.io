@@ -22,13 +22,17 @@ layout: default
 
 * "Cycle-based Polynomial Constraints for Tightening the Quadratic Convex Relaxations of the Alternating Current Optimal Power Flow Problem", **C. Guo**, M. Bodur, H. Nagarajan, working paper.
 
+### **Ph.D. Thesis**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
+
+* “Optimization Models and Algorithms for Nonconvex Planning, Pricing and Operational Problems in Power Systems and Energy Markets”, 2021.[[<u>paper</u>](https://www.proquest.com/docview/2612433603?pq-origsite=gscholar&fromopenview=true)]
+
 ----------------
 
 ### **Talks**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
 * "Copositive Duality for Discrete Markets and Games"
 
-  * INFORMS Annual Meeting, Anaheim, CA, October 2021 (upcoming)
+  * INFORMS Annual Meeting, Anaheim, CA, October 2021
   * International Conference on Game Theory (poster), Virtual, July 2021
   * IPCO Conference (poster), Virtual, June 2021
   * CORS Annual Conference, Virtual, June 2021

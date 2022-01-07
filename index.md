@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-Starting Fall 2021, I will become an Assistant Professor in the School of Mathematical & Statistical Sciences at Clemson University (Research area: Operations Research).
+I am an Assistant Professor in the School of Mathematical & Statistical Sciences at Clemson University (Research area: Operations Research).
 
 <!-- My research is in the intersection of optimization and economics, with a focus on nonconvex problems in energy markets and power systems. -->
 
@@ -27,6 +27,8 @@ Please contact me at: guocheng0@gmail.com
 ----------------
 
 # News
+
+* November, 2021: Working remotely from New York City till August 2022. Let me know if you are around and would like to have a coffee together!
 
 * August 5th, 2021: Defended my Ph.D..
 

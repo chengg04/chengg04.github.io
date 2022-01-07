@@ -10,9 +10,7 @@ I am an Assistant Professor in the School of Mathematical & Statistical Sciences
 
 I obtained my Ph.D. in Industrial Engineering at University of Toronto, advised by [<u>Merve Bodur</u>](https://sites.google.com/site/mervebodr/). I received M.S. in Operations Research from Columbia University in 2017, and my B.A. in Economics and B.S. in Mathematics from Wuhan University in 2015. You can find my CV [<u>here</u>](/docs/cv_ChengGuo.pdf).
 
-Please contact me at: guocheng0@gmail.com
-
-<!-- <img src ="/images/email_comic_bold.png" alt = "email image"/> -->
+Please contact me at: <img src ="/images/email_comic.png" alt = "email image"/>
 
 ### <em>Research Interests</em>{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 

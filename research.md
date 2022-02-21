@@ -6,7 +6,7 @@ layout: default
 
 ### **Journal Articles**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* “Generation Expansion Planning with Revenue Adequacy Constraints”, **C. Guo**, M. Bodur, D. Papageorgiou, *Computers & Operations Research*, 2022. [[<u>preprint</u>](http://www.optimization-online.org/DB_HTML/2020/04/7725.html)][[<u>poster</u>](/docs/MINLP2019_Poster.pdf)]
+* “Generation Expansion Planning with Revenue Adequacy Constraints”, **C. Guo**, M. Bodur, D. Papageorgiou, *Computers & Operations Research*, 2022. [[<u>paper</u>](https://www.sciencedirect.com/science/article/pii/S0305054822000363)][[<u>poster</u>](/docs/MINLP2019_Poster.pdf)]
 
 * “Logic-based Benders Decomposition and Binary Decision Diagram Based Approaches for Stochastic Distributed Operating Room Scheduling”, **C. Guo**, M. Bodur, D. Aleman, and D. Urbach, *INFORMS Journal on Computing*, 2021.[[<u>paper</u>](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2020.1036)][[<u>poster</u>](/docs/sdors_poster.pdf)]
 

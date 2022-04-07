@@ -4,7 +4,10 @@ layout: default
 
 # About Me
 
-I am an Assistant Professor in the School of Mathematical & Statistical Sciences at Clemson University (Research area: Operations Research).
+I am an Assistant Professor in the School of Mathematical & Statistical Sciences at Clemson University (Subfaculty: Operations Research).
+
+My research is in the intersection of optimization and economics, with a focus on energy markets and power systems. Classical economic equilibrium models often assume convexity and certainty, while in modern energy markets we need to consider nonconvex physical constraints and uncertainty of renewable production. One theme of my research is to design mechanisms and models that deal with those issues. Additionally, power system optimization models are often large-scale and nonlinear, and as a result computationally difficult. Another theme of my research is to use decomposition and convex relaxation methods to solve those models more efficiently.
+<!-- Using optimization methods such as copositive programming and integer programming, I deal with the challenges of uncertainty and nonconvexity in power grids. I also develop decomposition algorithms to solve the optimization models more efficiently. -->
 
 <!-- My research is in the intersection of optimization and economics, with a focus on nonconvex problems in energy markets and power systems. -->
 

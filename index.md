@@ -11,7 +11,7 @@ My research is in the intersection of optimization and economics, with a focus o
 
 <!-- My research is in the intersection of optimization and economics, with a focus on nonconvex problems in energy markets and power systems. -->
 
-I obtained my Ph.D. in Industrial Engineering at University of Toronto, advised by [<u>Merve Bodur</u>](https://sites.google.com/site/mervebodr/). I received M.S. in Operations Research from Columbia University in 2017, and my B.A. in Economics and B.S. in Mathematics from Wuhan University in 2015. You can find my CV [<u>here</u>](/docs/cv_ChengGuo.pdf).
+I obtained my Ph.D. in Industrial Engineering at University of Toronto in 2021, advised by [<u>Merve Bodur</u>](https://sites.google.com/site/mervebodr/). I received M.S. in Operations Research from Columbia University in 2017, and my B.A. in Economics and B.S. in Mathematics from Wuhan University in 2015. You can find my CV [<u>here</u>](/docs/cv_ChengGuo.pdf).
 
 Please contact me at: <img src ="/images/email_comic.png" alt = "email image"/>
 
@@ -23,7 +23,7 @@ Please contact me at: <img src ="/images/email_comic.png" alt = "email image"/>
 
 &nbsp;
 
-**Prospective students**: I am actively looking for students with background in optimization, data analytics, energy markets, and computational economics, to start in Fall 2022. If you are interested in working with me, feel free to send me an email and include an introduction of your background & research interests.
+<!-- **Prospective students**: I am actively looking for students with background in optimization, data analytics, energy markets, and computational economics, to start in Fall 2022. If you are interested in working with me, feel free to send me an email and include an introduction of your background & research interests. -->
 
 ----------------
 

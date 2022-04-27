@@ -12,7 +12,7 @@ layout: default
 
 ### **Submitted**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* “Copositive Duality for Discrete Markets and Games”, **C. Guo**, M. Bodur, J. A. Taylor, submitted, 2021.[[<u>preprint</u>](https://arxiv.org/abs/2101.05379)][[<u>talk (DOTs)</u>](https://www.youtube.com/watch?v=ihDWyAHSMJ4&t=1s&ab_channel=DiscreteOptimizationTalks)][[<u>poster</u>](/docs/COP_Poster.pdf)]
+* “Copositive Duality for Discrete Markets and Games”, **C. Guo**, M. Bodur, J. A. Taylor, rejected with invitation to resubmit at *Management Science*, 2021.[[<u>preprint</u>](https://arxiv.org/abs/2101.05379)][[<u>talk (DOTs)</u>](https://www.youtube.com/watch?v=ihDWyAHSMJ4&t=1s&ab_channel=DiscreteOptimizationTalks)][[<u>poster</u>](/docs/COP_Poster.pdf)]
 
 ### **Work in Progress**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 

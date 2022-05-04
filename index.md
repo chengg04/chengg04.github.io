@@ -19,7 +19,7 @@ Please contact me at: <img src ="/images/email_comic.png" alt = "email image"/>
 
 * Application areas: Energy markets, Nonconvex market pricing, Power systems, Computational mechanism design, Healthcare.
 
-* Methodologies: Copositive Programming, Stochastic programming, Integer programming, Mixed-integer nonlinear programming, Decomposition methods.
+* Methodologies: Copositive programming, Stochastic programming, Integer programming, Mixed-integer nonlinear programming, Decomposition methods.
 
 &nbsp;
 

@@ -23,7 +23,7 @@ Please contact me at: <img src ="/images/email_comic.png" alt = "email image"/>
 
 &nbsp;
 
-<!-- **Prospective students**: I am actively looking for students with background in optimization, data analytics, energy markets, and computational economics, to start in Fall 2022. If you are interested in working with me, feel free to send me an email and include an introduction of your background & research interests. -->
+**Prospective students**: I am looking for Ph.D. students with background and interests in optimization, energy markets, math, and economics. If you are interested in working with me, feel free to send me an email and include an introduction of your background & research interests.
 
 ----------------
 

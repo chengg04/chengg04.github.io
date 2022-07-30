@@ -13,7 +13,7 @@ My research is in the intersection of optimization and economics, with a focus o
 
 I obtained my Ph.D. in Industrial Engineering at University of Toronto in 2021, advised by [<u>Merve Bodur</u>](https://sites.google.com/site/mervebodr/). I received M.S. in Operations Research from Columbia University in 2017, and my B.A. in Economics and B.S. in Mathematics from Wuhan University in 2015. You can find my CV [<u>here</u>](/docs/cv_ChengGuo.pdf).
 
-Please contact me at: <img src ="/images/email_comic.png" alt = "email image"/>.
+Please contact me at: <img src ="/images/email_comic.png" alt = "email image"/>
 
 Note that I am not the only person called Cheng Guo at Clemson University. There is another Cheng Guo and he is a Ph.D. student in the School of Computing.
 
@@ -26,8 +26,6 @@ Note that I am not the only person called Cheng Guo at Clemson University. There
 &nbsp;
 
 **Prospective students**: I am looking for Ph.D. students with background and interests in optimization, energy markets, math, and economics. If you are interested in working with me, feel free to send me an email and include an introduction of your background & research interests.
-
-&nbsp;
 
 ----------------
 

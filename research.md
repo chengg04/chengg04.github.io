@@ -18,6 +18,8 @@ layout: default
 
 ### **Work in Progress**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
+* "Modeling, equilibrium and market power for electricity capacity markets", **C. Guo**, C. Kroer, D. Bienstock, Y. Dvorkin, in preparation.
+
 * "A Multistage Stochastic Integer Programming Approach to Distributed Operating Room Scheduling", A. Deza, **C. Guo**, M. Bodur, in preparation.
 
   * Selected as a finalist in 2020 INFORMS Undergraduate OR Prize Competition.
@@ -28,9 +30,11 @@ layout: default
 
 ----------------
 
-### **Talks**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
+### **Upcoming Conferences and Presentations**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* "Copositive Duality for Discrete Markets and Games"
+* MIP Workshop 2023, Los Angeles, CA, May 2023
+
+<!-- * "Copositive Duality for Discrete Markets and Games"
 
   * INFORMS Annual Meeting, Anaheim, CA, October 2021
   * International Conference on Game Theory (poster), Virtual, July 2021
@@ -53,7 +57,7 @@ layout: default
   * INFORMS Annual Meeting, Seattle, WA, October 2019
   * MIP Workshop (poster), Boston, MA, July 2019
   * INFORMS Computing Society Conference, Knoxville, TN, January 2019
-  * MIE Graduate Research Symposium (poster), Toronto, ON, June 2018
+  * MIE Graduate Research Symposium (poster), Toronto, ON, June 2018 -->
 
 ----------------
 

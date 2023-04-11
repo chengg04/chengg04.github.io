@@ -20,6 +20,8 @@ layout: default
 
 * "Modeling, equilibrium and market power for electricity capacity markets", **C. Guo**, C. Kroer, D. Bienstock, Y. Dvorkin, in preparation.
 
+* "Risk-Aware Security-Constrained Unit Commitment", in preparation.
+
 * "A Multistage Stochastic Integer Programming Approach to Distributed Operating Room Scheduling", A. Deza, **C. Guo**, M. Bodur, in preparation.
 
   * Selected as a finalist in 2020 INFORMS Undergraduate OR Prize Competition.

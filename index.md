@@ -23,9 +23,9 @@ Note that I am not the only person called Cheng Guo at Clemson University. There
 
 * Methodologies: Copositive programming, Stochastic programming, Integer programming, Mixed-integer nonlinear programming, Decomposition methods.
 
-&nbsp;
+<!-- &nbsp; -->
 
-**Prospective students**: I am looking for Ph.D. students with background and interests in optimization, energy markets, math, and economics. If you are interested in working with me, feel free to send me an email and include an introduction of your background & research interests.
+<!-- **Prospective students**: I am looking for Ph.D. students with background and interests in optimization, energy markets, math, and economics. If you are interested in working with me, feel free to send me an email and include an introduction of your background & research interests. -->
 
 ----------------
 

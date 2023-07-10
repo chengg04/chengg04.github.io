@@ -31,6 +31,8 @@ Note that I am not the only person called Cheng Guo at Clemson University. There
 
 # News
 
+* Jul, 2023: I am attending the [<u>PES General Meeting</u>](https://pes-gm.org) in Orlando.
+
 * May, 2023: I will give a talk at [<u>MIP 2023</u>](https://www.mixedinteger.org/2023/). I am also attending [<u>MSOM 2023</u>](https://www.mcgill.ca/msom2023/) in June. See you in Los Angeles/Montreal!
 
 * November, 2021: Working remotely from New York City till August 2022. Let me know if you are around and would like to have a coffee together!

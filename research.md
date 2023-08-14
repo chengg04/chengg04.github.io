@@ -34,7 +34,9 @@ layout: default
 
 ### **Upcoming Conferences and Presentations**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* MIP Workshop 2023, Los Angeles, CA, May 2023
+* INFORMS Annual Meeting 2023, Phoenix, AZ, October 2023
+
+<!-- * MIP Workshop 2023, Los Angeles, CA, May 2023 -->
 
 <!-- * "Copositive Duality for Discrete Markets and Games"
 

@@ -12,9 +12,11 @@ layout: default
 
 ### **Submitted**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* "Tightening Quadratic Convex Relaxations for the AC Optimal Transmission Switching Problem", **C. Guo**, H. Nagarajan, M. Bodur, submitted, 2022. [[<u>paper</u>](https://optimization-online.org/2022/12/tightening-quadratic-convex-relaxations-for-the-ac-optimal-transmission-switching-problem/)]
+* “Copositive Duality for Discrete Energy Markets”, **C. Guo**, M. Bodur, J. A. Taylor, major revision at *Management Science*, 2023. [[<u>preprint</u>](https://optimization-online.org/wp-content/uploads/2021/01/COPDualityApp-1.pdf)][[<u>slides (MIP Workshop)</u>](/docs/COPPricing_slides.pdf)]
 
-* “Copositive Duality for Discrete Markets and Games”, **C. Guo**, M. Bodur, J. A. Taylor, rejected with invitation to resubmit at *Management Science*, 2021.[[<u>preprint</u>](https://arxiv.org/abs/2101.05379)][[<u>talk (DOTs)</u>](https://www.youtube.com/watch?v=ihDWyAHSMJ4&t=1s&ab_channel=DiscreteOptimizationTalks)][[<u>poster</u>](/docs/COP_Poster.pdf)]
+    * Previous version: “Copositive Duality for Discrete Markets and Games” [[<u>preprint</u>](https://arxiv.org/abs/2101.05379)][[<u>talk (DOTs)</u>](https://www.youtube.com/watch?v=ihDWyAHSMJ4&t=1s&ab_channel=DiscreteOptimizationTalks)][[<u>poster</u>](/docs/COP_Poster.pdf)]
+
+* "Tightening Quadratic Convex Relaxations for the AC Optimal Transmission Switching Problem", **C. Guo**, H. Nagarajan, M. Bodur, submitted, 2022. [[<u>paper</u>](https://optimization-online.org/2022/12/tightening-quadratic-convex-relaxations-for-the-ac-optimal-transmission-switching-problem/)]
 
 ### **Work in Progress**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 

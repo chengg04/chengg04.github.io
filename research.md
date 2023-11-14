@@ -12,6 +12,8 @@ layout: default
 
 ### **Submitted**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
+* "Incentivizing Investment and Reliability: A Study on Electricity Capacity Markets", **C. Guo**, C. Kroer, Y. Dvorkin, D. Bienstock, submitted, 2023. [[<u>preprint</u>](https://arxiv.org/abs/2311.06426)][[<u>slides</u>](/docs/CM_slides.pdf)]
+
 * “Copositive Duality for Discrete Energy Markets”, **C. Guo**, M. Bodur, J. A. Taylor, major revision at *Management Science*, 2023. [[<u>preprint</u>](https://optimization-online.org/wp-content/uploads/2021/01/COPDualityApp-1.pdf)][[<u>slides (MIP Workshop)</u>](/docs/COPPricing_slides.pdf)]
 
     * Previous version: “Copositive Duality for Discrete Markets and Games” [[<u>preprint</u>](https://arxiv.org/abs/2101.05379)][[<u>talk (DOTs)</u>](https://www.youtube.com/watch?v=ihDWyAHSMJ4&t=1s&ab_channel=DiscreteOptimizationTalks)][[<u>poster</u>](/docs/COP_Poster.pdf)]
@@ -20,7 +22,7 @@ layout: default
 
 ### **Work in Progress**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* "Modeling, equilibrium and market power for electricity capacity markets", **C. Guo**, C. Kroer, D. Bienstock, Y. Dvorkin, in preparation.
+<!-- * "Modeling, equilibrium and market power for electricity capacity markets", **C. Guo**, C. Kroer, D. Bienstock, Y. Dvorkin, in preparation. -->
 
 * "Risk-Aware Security-Constrained Unit Commitment", in preparation.
 
@@ -36,7 +38,7 @@ layout: default
 
 ### **Upcoming Conferences and Presentations**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* INFORMS Annual Meeting 2023, Phoenix, AZ, October 2023
+* PSERC, Atlanta, GA, December 2023
 
 <!-- * MIP Workshop 2023, Los Angeles, CA, May 2023 -->
 

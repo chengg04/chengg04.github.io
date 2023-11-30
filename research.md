@@ -12,7 +12,7 @@ layout: default
 
 ### **Submitted**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* "Risk-Aware Security-Constrained Unit Commitment", D. Bienstock, Y. Dvorkin, **C. Guo**, R. Mieth, J. Wang, submitted, 2023. [[<u>preprint</u>](http://arxiv.org/abs/2311.06426)]
+* "Risk-Aware Security-Constrained Unit Commitment", D. Bienstock, Y. Dvorkin, **C. Guo**, R. Mieth, J. Wang, submitted, 2023. [[<u>preprint</u>](https://arxiv.org/abs/2311.17254)]
 
 * "Incentivizing Investment and Reliability: A Study on Electricity Capacity Markets", **C. Guo**, C. Kroer, Y. Dvorkin, D. Bienstock, submitted, 2023. [[<u>preprint</u>](https://arxiv.org/abs/2311.06426)][[<u>slides</u>](/docs/CM_slides.pdf)]
 

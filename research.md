@@ -12,6 +12,8 @@ layout: default
 
 ### **Submitted**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
+* "Risk-Aware Security-Constrained Unit Commitment", D. Bienstock, Y. Dvorkin, **C. Guo**, R. Mieth, J. Wang, submitted, 2023. [[<u>preprint</u>](http://arxiv.org/abs/2311.06426)]
+
 * "Incentivizing Investment and Reliability: A Study on Electricity Capacity Markets", **C. Guo**, C. Kroer, Y. Dvorkin, D. Bienstock, submitted, 2023. [[<u>preprint</u>](https://arxiv.org/abs/2311.06426)][[<u>slides</u>](/docs/CM_slides.pdf)]
 
 * “Copositive Duality for Discrete Energy Markets”, **C. Guo**, M. Bodur, J. A. Taylor, major revision at *Management Science*, 2023. [[<u>preprint</u>](https://optimization-online.org/wp-content/uploads/2021/01/COPDualityApp-1.pdf)][[<u>slides (MIP Workshop)</u>](/docs/COPPricing_slides.pdf)]
@@ -35,10 +37,12 @@ layout: default
 * “Optimization Models and Algorithms for Nonconvex Planning, Pricing and Operational Problems in Power Systems and Energy Markets”, 2021.[[<u>paper</u>](https://www.proquest.com/docview/2612433603?pq-origsite=gscholar&fromopenview=true)]
 
 ----------------
-
+<!--
 ### **Upcoming Conferences and Presentations**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
 * PSERC, Atlanta, GA, December 2023
+
+* INFORMS Optimization Society Conference, Houston, TX, March 2024 -->
 
 <!-- * MIP Workshop 2023, Los Angeles, CA, May 2023 -->
 

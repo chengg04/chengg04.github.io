@@ -28,8 +28,13 @@ Note that I am not the only person called Cheng Guo at Clemson University. There
 <!-- **Prospective students**: I am looking for Ph.D. students with background and interests in optimization, energy markets, math, and economics. If you are interested in working with me, feel free to send me an email and include an introduction of your background & research interests. -->
 
 ----------------
+## **Upcoming Conferences and Presentations**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-# News
+* PSERC, Atlanta, GA, December 2023
+
+* INFORMS Optimization Society Conference, Houston, TX, March 2024
+
+<!-- # News -->
 
 <!-- * July, 2023: I am attending the [<u>PES General Meeting</u>](https://pes-gm.org) in Orlando.
 

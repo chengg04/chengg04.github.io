@@ -28,7 +28,7 @@ Note that I am not the only person called Cheng Guo at Clemson University. There
 <!-- **Prospective students**: I am looking for Ph.D. students with background and interests in optimization, energy markets, math, and economics. If you are interested in working with me, feel free to send me an email and include an introduction of your background & research interests. -->
 
 ----------------
-## **Upcoming Conferences and Presentations**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
+### **Upcoming Conferences and Presentations**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
 * PSERC, Atlanta, GA, December 2023
 

@@ -4,6 +4,8 @@ layout: default
 
 # Research
 
+(Underline: student coauthor; \*: alphabetical author ordering.)
+
 ### **Journal Articles**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
 * “Generation Expansion Planning with Revenue Adequacy Constraints”, **C. Guo**, M. Bodur, D. Papageorgiou, *Computers & Operations Research*, 2022. [[<u>paper</u>](https://www.sciencedirect.com/science/article/pii/S0305054822000363)][[<u>poster</u>](/docs/MINLP2019_Poster.pdf)]
@@ -12,7 +14,7 @@ layout: default
 
 ### **Submitted**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* "Risk-Aware Security-Constrained Unit Commitment", D. Bienstock, Y. Dvorkin, **C. Guo**, R. Mieth, J. Wang, submitted, 2023. [[<u>preprint</u>](https://arxiv.org/abs/2311.17254)]
+* "Risk-Aware Security-Constrained Unit Commitment", D. Bienstock, Y. Dvorkin, **C. Guo**, R. Mieth, <u>J. Wang</u>\*, revise and resubmit at *IEEE Transactions on Energy Markets, Policy, and Regulation* 2024. [[<u>preprint</u>](https://arxiv.org/abs/2311.17254)]
 
 * "Incentivizing Investment and Reliability: A Study on Electricity Capacity Markets", **C. Guo**, C. Kroer, Y. Dvorkin, D. Bienstock, submitted, 2023. [[<u>preprint</u>](https://arxiv.org/abs/2311.06426)][[<u>slides</u>](/docs/CM_slides.pdf)]
 
@@ -24,11 +26,7 @@ layout: default
 
 ### **Work in Progress**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-<!-- * "Modeling, equilibrium and market power for electricity capacity markets", **C. Guo**, C. Kroer, D. Bienstock, Y. Dvorkin, in preparation. -->
-
-* "Risk-Aware Security-Constrained Unit Commitment", in preparation.
-
-* "A Multistage Stochastic Integer Programming Approach to Distributed Operating Room Scheduling", A. Deza, **C. Guo**, M. Bodur, in preparation.
+* "A Multistage Stochastic Integer Programming Approach to Distributed Operating Room Scheduling", <u>A. Deza</u>, **C. Guo**, M. Bodur, in preparation.
 
   * Selected as a finalist in 2020 INFORMS Undergraduate OR Prize Competition.
 

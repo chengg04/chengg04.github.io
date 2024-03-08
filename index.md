@@ -30,9 +30,11 @@ Note that I am not the only person called Cheng Guo at Clemson University. There
 ----------------
 ### **Upcoming Conferences and Presentations**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* PSERC, Atlanta, GA, December 2023
-
 * INFORMS Optimization Society Conference, Houston, TX, March 2024
+
+* Cornell FIND Seminar, Ithaca, NY, April, 2024
+
+* International Symposium on Mathematical Programming, Montreal, QC, 2024
 
 <!-- # News -->
 

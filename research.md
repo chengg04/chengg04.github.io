@@ -4,7 +4,7 @@ layout: default
 
 # Research
 
-(Underline: student coauthor; \*: alphabetical author ordering.)
+(*: alphabetical author ordering; Underline: student coauthor.)
 
 ### **Journal Articles**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 

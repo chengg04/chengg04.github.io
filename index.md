@@ -30,7 +30,7 @@ Note that I am not the only person called Cheng Guo at Clemson University. There
 ----------------
 ### **Upcoming Conferences and Presentations**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* INFORMS Optimization Society Conference, Houston, TX (March 2024)
+* INFORMS Optimization Society Conference, Houston, TX (March 2024): [<u>Session FriD 3, Friday 4:45 - 6:15 pm, "Risk-Aware Security-Constrained Unit Commitment"</u>](https://easychair.org/smart-program/IOS2024/2024-03-22.html#talk:248168).
 
 * Cornell FIND Seminar, Ithaca, NY (April, 2024)
 

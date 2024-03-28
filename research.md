@@ -16,7 +16,7 @@ layout: default
 
 * "Tightening Quadratic Convex Relaxations for the AC Optimal Transmission Switching Problem", **C. Guo**, H. Nagarajan, M. Bodur, major revision at *INFORMS Journal on Computing*, 2024. [[<u>paper</u>](https://optimization-online.org/2022/12/tightening-quadratic-convex-relaxations-for-the-ac-optimal-transmission-switching-problem/)]
 
-* "Risk-Aware Security-Constrained Unit Commitment", D. Bienstock, Y. Dvorkin, **C. Guo**, R. Mieth, <u>J. Wang</u>,\* revise and resubmit at *IEEE Transactions on Energy Markets, Policy, and Regulation* 2024. [[<u>preprint</u>](https://arxiv.org/abs/2311.17254)]
+* "Risk-Aware Security-Constrained Unit Commitment", D. Bienstock, Y. Dvorkin, **C. Guo**, R. Mieth, <u>J. Wang</u>,\* revise and resubmit at *IEEE Transactions on Energy Markets, Policy, and Regulation*, 2024. [[<u>preprint</u>](https://arxiv.org/abs/2311.17254)]
 
 * "Incentivizing Investment and Reliability: A Study on Electricity Capacity Markets", **C. Guo**, C. Kroer, Y. Dvorkin, D. Bienstock, submitted, 2023. [[<u>preprint</u>](https://arxiv.org/abs/2311.06426)][[<u>slides</u>](/docs/CM_slides.pdf)]
 

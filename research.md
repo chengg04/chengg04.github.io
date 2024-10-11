@@ -8,7 +8,7 @@ layout: default
 
 ### **Journal Articles**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* "Risk-Aware Security-Constrained Unit Commitment", D. Bienstock, Y. Dvorkin, **C. Guo**, R. Mieth, <u>J. Wang</u>,\* accepted at *IEEE Transactions on Energy Markets, Policy, and Regulation*, 2024. [[<u>preprint</u>](https://ieeexplore.ieee.org/abstract/document/10684133)][[<u>slides</u>](/docs/SCUC_slides.pdf)]
+* "Risk-Aware Security-Constrained Unit Commitment", D. Bienstock, Y. Dvorkin, **C. Guo**, R. Mieth, <u>J. Wang</u>,\* accepted at *IEEE Transactions on Energy Markets, Policy, and Regulation*, 2024. [[<u>paper</u>](https://ieeexplore.ieee.org/abstract/document/10684133)][[<u>slides</u>](/docs/SCUC_slides.pdf)]
 
 * “Generation Expansion Planning with Revenue Adequacy Constraints”, **C. Guo**, M. Bodur, D. Papageorgiou, *Computers & Operations Research*, 2022. [[<u>paper</u>](https://www.sciencedirect.com/science/article/pii/S0305054822000363)][[<u>poster</u>](/docs/MINLP2019_Poster.pdf)]
 

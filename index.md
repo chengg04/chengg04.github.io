@@ -32,7 +32,7 @@ Note that I am not the only person called Cheng Guo at Clemson University. There
 
 * IEEE Power and Energy Society (PES) General Meeting, Austin, TX (July, 2025)
 
-* Production and Operations Management Society (POMS) Conference, Atlanta, GA (May, 2025)
+<!-- * Production and Operations Management Society (POMS) Conference, Atlanta, GA (May, 2025) -->
 
 <!-- * INFORMS Annual Meeting, Seattle, WA (Oct, 2024): Session WC16, Wednesday 12:15 - 1:30 pm, Summit-336 "Endogenous Entry in Networked Markets". -->
 

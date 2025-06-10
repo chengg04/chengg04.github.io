@@ -8,6 +8,8 @@ layout: default
 
 ### **Journal Articles**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
+* "Tightening Quadratic Convex Relaxations for the AC Optimal Transmission Switching Problem", **C. Guo**\*, H. Nagarajan, M. Bodur, accepted at *INFORMS Journal on Computing*, 2025. [[<u>paper</u>](https://optimization-online.org/2022/12/tightening-quadratic-convex-relaxations-for-the-ac-optimal-transmission-switching-problem/)][[<u>slides</u>](/docs/ACOTS_slides.pdf)]
+
 * “Copositive Duality for Discrete Energy Markets”, **C. Guo**\*, M. Bodur, J. A. Taylor, accepted at *Management Science*, 2025. [[<u>preprint</u>](https://optimization-online.org/wp-content/uploads/2021/01/COPDualityApp-1.pdf)][[<u>slides (MIP Workshop)</u>](/docs/COPPricing_slides.pdf)]
 
     * Previous version: “Copositive Duality for Discrete Markets and Games” [[<u>preprint</u>](https://arxiv.org/abs/2101.05379)][[<u>talk (DOTs)</u>](https://www.youtube.com/watch?v=ihDWyAHSMJ4&t=1s&ab_channel=DiscreteOptimizationTalks)][[<u>poster</u>](/docs/COP_Poster.pdf)]
@@ -19,8 +21,6 @@ layout: default
 * “Logic-based Benders Decomposition and Binary Decision Diagram Based Approaches for Stochastic Distributed Operating Room Scheduling”, **C. Guo**\*, M. Bodur, D. Aleman, and D. Urbach, *INFORMS Journal on Computing*, 2021.[[<u>paper</u>](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2020.1036)][[<u>poster</u>](/docs/sdors_poster.pdf)]
 
 ### **Submitted**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
-
-* "Tightening Quadratic Convex Relaxations for the AC Optimal Transmission Switching Problem", **C. Guo**\*, H. Nagarajan, M. Bodur, minor revision at *INFORMS Journal on Computing*, 2025. [[<u>paper</u>](https://optimization-online.org/2022/12/tightening-quadratic-convex-relaxations-for-the-ac-optimal-transmission-switching-problem/)][[<u>slides</u>](/docs/ACOTS_slides.pdf)]
 
 * "Incentivizing Investment and Reliability: A Study on Electricity Capacity Markets", **C. Guo**\*, C. Kroer, Y. Dvorkin, D. Bienstock, submitted, 2023. [[<u>preprint</u>](https://arxiv.org/abs/2311.06426)][[<u>slides</u>](/docs/CM_slides.pdf)]
 

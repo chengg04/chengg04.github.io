@@ -24,11 +24,11 @@ layout: default
 
 * "Incentivizing Investment and Reliability: A Study on Electricity Capacity Markets", **C. Guo**\*, C. Kroer, Y. Dvorkin, D. Bienstock, submitted, 2023. [[<u>preprint</u>](https://arxiv.org/abs/2311.06426)][[<u>slides</u>](/docs/CM_slides.pdf)]
 
-### **Work in Progress**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
+<!-- ### **Work in Progress**{: style="color: rgb(17, 30, 108); opacity: 1.00;" } -->
 
-* "A Multistage Stochastic Integer Programming Approach to Distributed Operating Room Scheduling", <u>A. Deza</u>, **C. Guo**, M. Bodur, in preparation.
+<!-- * "A Multistage Stochastic Integer Programming Approach to Distributed Operating Room Scheduling", <u>A. Deza</u>, **C. Guo**, M. Bodur, in preparation.
 
-  * Selected as a finalist in 2020 INFORMS Undergraduate OR Prize Competition.
+  * Selected as a finalist in 2020 INFORMS Undergraduate OR Prize Competition. -->
 
 ### **Ph.D. Thesis**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 

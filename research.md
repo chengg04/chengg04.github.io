@@ -12,7 +12,7 @@ layout: default
 
     * Previous version: “Copositive Duality for Discrete Markets and Games” [[<u>preprint</u>](https://arxiv.org/abs/2101.05379)][[<u>talk (DOTs)</u>](https://www.youtube.com/watch?v=ihDWyAHSMJ4&t=1s&ab_channel=DiscreteOptimizationTalks)][[<u>poster</u>](/docs/COP_Poster.pdf)]
 
-* "Tightening Quadratic Convex Relaxations for the AC Optimal Transmission Switching Problem", **Cheng Guo**\*, Harsha Nagarajan, Merve Bodur, *INFORMS Journal on Computing*, 2025. [[<u>paper</u>](https://pubsonline.informs.org/doi/full/10.1287/ijoc.2023.0236)][[<u>slides</u>](/docs/ACOTS_slides.pdf)]
+* "Tightening Quadratic Convex Relaxations for the Alternating Current Optimal Transmission Switching Problem", **Cheng Guo**\*, Harsha Nagarajan, Merve Bodur, *INFORMS Journal on Computing*, 2025. [[<u>paper</u>](https://pubsonline.informs.org/doi/full/10.1287/ijoc.2023.0236)][[<u>slides</u>](/docs/ACOTS_slides.pdf)]
 
 * "Risk-Aware Security-Constrained Unit Commitment", Daniel Bienstock, Yury Dvorkin, **Cheng Guo**\*, Robert Mieth, <u>Jiayi Wang</u>, *IEEE Transactions on Energy Markets, Policy, and Regulation*, 2024. [[<u>paper</u>](https://ieeexplore.ieee.org/abstract/document/10684133)][[<u>slides</u>](/docs/SCUC_slides.pdf)]
 

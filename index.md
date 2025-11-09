@@ -6,7 +6,7 @@ layout: default
 
 I am an Assistant Professor in the School of Mathematical & Statistical Sciences at Clemson University (Subfaculty: Operations Research).
 
-My research develops theoretically-grounded and computationally-scalable methods to improve the operations of large-scale markets complicated by features such as nonconvexity, stochasticity, network effects, and strategic behavior, with electricity markets as a primary motivation. On the theoretical side, I study market design with provable performance guarantees and rigorous analysis, grounded in duality theory and state-of-the-art conic programming methods. On the computational side, I develop novel decomposition and convex relaxation methods for mixed-integer nonlinear, stochastic, and robust optimization, enabling the solution of large-scale market operations problems that were previously intractable. 
+My research develops theoretically-grounded and computationally-scalable methods to improve the operations of large-scale markets complicated by features such as nonconvexity, stochasticity, network effects, and strategic behavior, with electricity markets as a primary motivation. On the theoretical side, I study market design with provable performance guarantees and rigorous analysis, grounded in duality theory and state-of-the-art conic programming methods. On the computational side, I develop novel decomposition and convex relaxation methods for mixed-integer nonlinear, stochastic, and robust optimization, enabling the solution of large-scale market operations problems that were previously intractable.
 
 <!-- My research is in the intersection of optimization and economics, with a focus on energy markets and power systems. Classical economic equilibrium models often assume convexity and certainty, while in modern energy markets we need to consider nonconvex physical constraints and uncertainty of renewable production. One theme of my research is to study market design with provable performance guarantees and rigorous analysis, leveraging duality theory and state-of-the-art conic programming methods. Additionally, power system optimization models are often large-scale and nonlinear, and as a result computationally difficult. Another theme of my research is to develop novel decomposition and convex relaxation methods for mixed-integer nonlinear, stochastic, and robust optimization, enabling the solution of large-scale market operations problems that were previously intractable. -->
 <!-- use decomposition and convex relaxation methods for mixed-integer nonlinear and robust optimization models, enabling more efficient computation of large-scale market optimization. -->
@@ -36,7 +36,11 @@ Note that I am not the only person called Cheng Guo at Clemson University. There
 ----------------
 ### **Upcoming Conferences and Presentations**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* INFORMS Annual Meeting, Atlanta, GA (October, 2025): SA19, Sunday, October 26, 8:00 AM - 8:15 AM, Building A Level 4 A405.
+* Production and Operations Management Society (POMS) Conference, Reno, NV (May, 2026)
+
+* INFORMS Optimization Society Conference, Atlanta, GA (March 2026)
+
+<!-- * INFORMS Annual Meeting, Atlanta, GA (October, 2025): SA19, Sunday, October 26, 8:00 AM - 8:15 AM, Building A Level 4 A405. -->
 
 <!-- * IEEE Power and Energy Society (PES) General Meeting, Austin, TX (July, 2025)
 

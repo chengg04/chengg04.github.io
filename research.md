@@ -29,7 +29,8 @@ layout: default
 
 ### **Working Papers**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* [W2] "A Semidefinite Relaxation for Copositive Dual Pricing in Discrete Energy Markets", **Cheng Guo**, <u>Lauren Henderson</u>, Ryan Cory-Wright, Boshi Yang.
+* [W2] "Pricing Discrete and Nonlinear Markets With Semidefinite
+Relaxations", **Cheng Guo**, <u>Lauren Henderson</u>, Ryan Cory-Wright, Boshi Yang.
 
 * [W1] "Stochastic Dual Dynamic Programming for Multiobjective Multistage Problems", <u>Benjamin Hamlin</u>, **Cheng Guo**, Margaret Wiecek.
 

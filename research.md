@@ -23,7 +23,8 @@ layout: default
 
 ### **Preprints**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* [P2] "Endogenous Entry in Networked Markets with Production and Edge Capacity Constraints", **Cheng Guo**, <u>Jiayi Wang</u>, Ozan Candogan. [[<u>preprint</u>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5558342)]
+* [P2] "Networked Markets with Production and Edge Capacity
+Constraints: From Competitive Equilibria To Market Entry", **Cheng Guo**, <u>Jiayi Wang</u>, Ozan Candogan. [[<u>preprint</u>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5558342)]
 
 * [P1] "Incentivizing Investment and Reliability: A Study on Electricity Capacity Markets", **Cheng Guo**, Christian Kroer, Yury Dvorkin, Daniel Bienstock. [[<u>preprint</u>](https://arxiv.org/abs/2311.06426)][[<u>slides</u>](/docs/CM_slides.pdf)]
 

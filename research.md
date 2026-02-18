@@ -23,15 +23,15 @@ layout: default
 
 ### **Preprints**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* [P2] "Networked Markets with Production and Edge Capacity
+* [P3] "Networked Markets with Production and Edge Capacity
 Constraints: From Competitive Equilibria To Market Entry", **Cheng Guo**, <u>Jiayi Wang</u>, Ozan Candogan. [[<u>preprint</u>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5558342)]
+
+* [P2] "Pricing Discrete and Nonlinear Markets With Semidefinite
+Relaxations", **Cheng Guo**, <u>Lauren Henderson</u>, Ryan Cory-Wright, Boshi Yang. [[<u>preprint</u>](https://arxiv.org/abs/2602.15722)]
 
 * [P1] "Incentivizing Investment and Reliability: A Study on Electricity Capacity Markets", **Cheng Guo**, Christian Kroer, Yury Dvorkin, Daniel Bienstock. [[<u>preprint</u>](https://arxiv.org/abs/2311.06426)][[<u>slides</u>](/docs/CM_slides.pdf)]
 
 ### **Working Papers**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
-
-* [W2] "Pricing Discrete and Nonlinear Markets With Semidefinite
-Relaxations", **Cheng Guo**, <u>Lauren Henderson</u>, Ryan Cory-Wright, Boshi Yang.
 
 * [W1] "Stochastic Dual Dynamic Programming for Multiobjective Multistage Problems", <u>Benjamin Hamlin</u>, **Cheng Guo**, Margaret Wiecek.
 

@@ -25,9 +25,9 @@ Note that I am not the only person called Cheng Guo at Clemson University. There
 
 ### <em>Research Topics</em>{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* Application areas: Energy markets, Power systems optimization, Capacity markets, Networked Cournot competition, Healthcare.
+* Application areas: Market design and pricing, Energy and sustainability, Networked markets, Healthcare.
 
-* Methodologies: Copositive programming, Integer programming, Mixed-integer nonlinear programming, Stochastic programming, Robust optimization, Decomposition methods.
+* Methodologies: Conic programming, Stochastic and robust optimization, Mixed-integer linear and nonlinear programming, Decomposition and scalable algorithms.
 
 <!-- &nbsp; -->
 

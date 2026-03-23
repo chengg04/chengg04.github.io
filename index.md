@@ -38,7 +38,7 @@ Note that I am not the only person called Cheng Guo at Clemson University. There
 
 * Production and Operations Management Society (POMS) Conference, Reno, NV (May, 2026)
 
-* INFORMS Optimization Society Conference, Atlanta, GA (March 2026)
+<!-- * INFORMS Optimization Society Conference, Atlanta, GA (March 2026) -->
 
 <!-- * INFORMS Annual Meeting, Atlanta, GA (October, 2025): SA19, Sunday, October 26, 8:00 AM - 8:15 AM, Building A Level 4 A405. -->
 

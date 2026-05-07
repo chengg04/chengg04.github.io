@@ -17,7 +17,7 @@ My research develops theoretically-grounded and computationally-scalable methods
 
 <!-- My research is in the intersection of optimization and economics, with a focus on nonconvex problems in energy markets and power systems. -->
 
-I obtained my Ph.D. in Industrial Engineering at University of Toronto in 2021, advised by [<u>Merve Bodur</u>](https://mervebodur.github.io). I received M.S. in Operations Research from Columbia University in 2017, and my B.A. in Economics and B.S. in Mathematics from Wuhan University in 2015. I also visited Columbia University and worked on the [<u>DOE ARPA-E PERFORM project</u>](https://arpa-e.energy.gov/technologies/projects/risk-aware-power-system-control-dispatch-and-market-incentives) led by [<u>Daniel Bienstock</u>](http://www.columbia.edu/~dano/). You can find my CV [<u>here</u>](/docs/cv_ChengGuo.pdf).
+I obtained my Ph.D. in Industrial Engineering at University of Toronto in 2021, advised by [<u>Merve Bodur</u>](https://mervebodur.github.io). I received M.S. in Operations Research from Columbia University in 2017, and my B.A. in Economics and B.S. in Mathematics from Wuhan University in 2015. I also visited Columbia University and worked on the DOE ARPA-E PERFORM project led by [<u>Daniel Bienstock</u>](http://www.columbia.edu/~dano/). You can find my CV [<u>here</u>](/docs/cv_ChengGuo.pdf).
 
 Please contact me at: <img src ="/images/email_comic.png" alt = "email image"/>
 
@@ -36,7 +36,13 @@ Note that I am not the only person called Cheng Guo at Clemson University. There
 ----------------
 ### **Upcoming Conferences and Presentations**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* Production and Operations Management Society (POMS) Conference, Reno, NV (May, 2026)
+* Optimization Junior Faculty Colloquium (ColOpt), Bethlehem, PA (August, 2026)
+
+* Marketplace Innovation Workshop, Online (May, 2026): [<u>My talk is on Monday morning in Room C</u>](https://marketplaceinnovation.net/MIW_2026_Program.pdf)
+
+* MIP Workshop, Stamford, CT (May, 2026)
+
+* Production and Operations Management Society (POMS) Conference, Reno, NV (May, 2026): [<u>I have two talks: Friday 9:45-11:15 in Room Carson 4; Sunday 4:45-6:15 in Room Nevada 8<\u>](https://drive.google.com/file/d/1eZj7x0-vIN8nZfb8wPGDloNFQBvzpHd7/view)
 
 <!-- * INFORMS Optimization Society Conference, Atlanta, GA (March 2026) -->
 

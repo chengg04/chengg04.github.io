@@ -42,7 +42,7 @@ Note that I am not the only person called Cheng Guo at Clemson University. There
 
 * MIP Workshop, Stamford, CT (May, 2026)
 
-* Production and Operations Management Society (POMS) Conference, Reno, NV (May, 2026): [<u>I have two talks: Friday 9:45-11:15 in Room Carson 4; Sunday 4:45-6:15 in Room Nevada 8<\u>](https://drive.google.com/file/d/1eZj7x0-vIN8nZfb8wPGDloNFQBvzpHd7/view)
+* Production and Operations Management Society (POMS) Conference, Reno, NV (May, 2026): [<u>I have two talks: Friday 9:45-11:15 in Room Carson 4; Sunday 4:45-6:15 in Room Nevada 8</u>](https://drive.google.com/file/d/1eZj7x0-vIN8nZfb8wPGDloNFQBvzpHd7/view)
 
 <!-- * INFORMS Optimization Society Conference, Atlanta, GA (March 2026) -->
 

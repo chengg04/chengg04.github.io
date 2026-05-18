@@ -38,7 +38,7 @@ Note that I am not the only person called Cheng Guo at Clemson University. There
 
 * Optimization Junior Faculty Colloquium (ColOpt), Bethlehem, PA (August, 2026)
 
-* INFORMS MSOM Conference (July, 2026): [<u>My talk is in Session TC3</u>](https://assets.secure.ctfassets.net/beh2ph2tgbqk/67GQWbMzVQwW0U3n7OhPgF/17691ca868db542d13cbe27299ecde1d/All_Sessions_MSOM_v20260517.pdf?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJodHRwczovL2Fzc2V0cy5zZWN1cmUuY3RmYXNzZXRzLm5ldC9iZWgycGgydGdicWsvNjdHUVdiTXpWUXdXMFUzbjdPaFBnRi8xNzY5MWNhODY4ZGI1NDJkMTNjYmUyNzI5OWVjZGUxZC9BbGxfU2Vzc2lvbnNfTVNPTV92MjAyNjA1MTcucGRmIn0.Yuz7NhpWt6J-MTphpv2-F--bIi9xmQOgxqn6CXB5MgM&policy=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjE6MSJ9.eyJleHAiOjE3NzkyOTY4NTMsInN1YiI6ImJlaDJwaDJ0Z2JxayIsImF1ZCI6ImFkbiIsImp0aSI6ImExMWRhYjAwLTY2MmUtNDM5ZS1hNjI5LTEzODZhY2JlYzZjOSIsImN0Zjp1bnB1YiI6ZmFsc2V9)
+* INFORMS MSOM Conference, Boston, MA (July, 2026): [<u>My talk is in Session TC3</u>](https://assets.secure.ctfassets.net/beh2ph2tgbqk/67GQWbMzVQwW0U3n7OhPgF/17691ca868db542d13cbe27299ecde1d/All_Sessions_MSOM_v20260517.pdf?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJodHRwczovL2Fzc2V0cy5zZWN1cmUuY3RmYXNzZXRzLm5ldC9iZWgycGgydGdicWsvNjdHUVdiTXpWUXdXMFUzbjdPaFBnRi8xNzY5MWNhODY4ZGI1NDJkMTNjYmUyNzI5OWVjZGUxZC9BbGxfU2Vzc2lvbnNfTVNPTV92MjAyNjA1MTcucGRmIn0.Yuz7NhpWt6J-MTphpv2-F--bIi9xmQOgxqn6CXB5MgM&policy=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjE6MSJ9.eyJleHAiOjE3NzkyOTY4NTMsInN1YiI6ImJlaDJwaDJ0Z2JxayIsImF1ZCI6ImFkbiIsImp0aSI6ImExMWRhYjAwLTY2MmUtNDM5ZS1hNjI5LTEzODZhY2JlYzZjOSIsImN0Zjp1bnB1YiI6ZmFsc2V9)
 
 * Marketplace Innovation Workshop, Online (May, 2026): [<u>My talk is on Monday afternoon in Room C</u>](https://marketplaceinnovation.net/MIW_2026_Program.pdf)
 

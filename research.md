@@ -23,7 +23,9 @@ layout: default
 
 ### **Preprints**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* [P3] "Networked Markets with Production and Edge Capacity Constraints: From Competitive Equilibria To Market Entry", **Cheng Guo**, <u>Jiayi Wang</u>, Ozan Candogan. [[<u>preprint</u>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5558342)] (Conference Version: [C1] (EC'26))
+* [P3] "Networked Markets with Production and Edge Capacity Constraints: From Competitive Equilibria To Market Entry", **Cheng Guo**, <u>Jiayi Wang</u>, Ozan Candogan. [[<u>preprint</u>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5558342)]
+
+    * Conference Version: [C1] (EC'26)
 
 * [P2] "Pricing Discrete and Nonlinear Markets With Semidefinite Relaxations", **Cheng Guo**, <u>Lauren Henderson</u>, Ryan Cory-Wright, Boshi Yang. [[<u>preprint</u>](https://arxiv.org/abs/2602.15722)]
 

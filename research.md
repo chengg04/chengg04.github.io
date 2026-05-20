@@ -19,21 +19,23 @@ layout: default
 
 * [J2] “Generation Expansion Planning with Revenue Adequacy Constraints”, **Cheng Guo**\*, Merve Bodur, Dimitri Papageorgiou, *Computers & Operations Research*, 2022. [[<u>paper</u>](https://www.sciencedirect.com/science/article/pii/S0305054822000363)][[<u>poster</u>](/docs/MINLP2019_Poster.pdf)]
 
-* [J1] “Logic-based Benders Decomposition and Binary Decision Diagram Based Approaches for Stochastic Distributed Operating Room Scheduling”, **Cheng Guo**\*, Merve Bodur, Dionne Aleman, and David Urbach, *INFORMS Journal on Computing*, 2021.[[<u>paper</u>](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2020.1036)][[<u>poster</u>](/docs/sdors_poster.pdf)]
+* [J1] “Logic-based Benders Decomposition and Binary Decision Diagram Based Approaches for Stochastic Distributed Operating Room Scheduling”, **Cheng Guo**\*, Merve Bodur, Dionne Aleman, David Urbach, *INFORMS Journal on Computing*, 2021.[[<u>paper</u>](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2020.1036)][[<u>poster</u>](/docs/sdors_poster.pdf)]
 
 ### **Preprints**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* [P3] "Networked Markets with Production and Edge Capacity
-Constraints: From Competitive Equilibria To Market Entry", **Cheng Guo**, <u>Jiayi Wang</u>, Ozan Candogan. [[<u>preprint</u>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5558342)]
+* [P3] "Networked Markets with Production and Edge Capacity Constraints: From Competitive Equilibria To Market Entry", **Cheng Guo**, <u>Jiayi Wang</u>, Ozan Candogan. [[<u>preprint</u>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5558342)] (Conference Version: [C1] (EC'26))
 
-* [P2] "Pricing Discrete and Nonlinear Markets With Semidefinite
-Relaxations", **Cheng Guo**, <u>Lauren Henderson</u>, Ryan Cory-Wright, Boshi Yang. [[<u>preprint</u>](https://arxiv.org/abs/2602.15722)]
+* [P2] "Pricing Discrete and Nonlinear Markets With Semidefinite Relaxations", **Cheng Guo**, <u>Lauren Henderson</u>, Ryan Cory-Wright, Boshi Yang. [[<u>preprint</u>](https://arxiv.org/abs/2602.15722)]
 
 * [P1] "Incentivizing Investment and Reliability: A Study on Electricity Capacity Markets", **Cheng Guo**, Christian Kroer, Yury Dvorkin, Daniel Bienstock. [[<u>preprint</u>](https://arxiv.org/abs/2311.06426)][[<u>slides</u>](/docs/CM_slides.pdf)]
 
 ### **Working Papers**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
 * [W1] "Stochastic Dual Dynamic Programming for Multiobjective Multistage Problems", <u>Benjamin Hamlin</u>, **Cheng Guo**, Margaret Wiecek.
+
+### **Conference Proceedings**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
+
+* [C1] "Networked Markets with Production and Edge Capacity Constraints: From Competitive Equilibria To Market Entry", **Cheng Guo**, <u>Jiayi Wang</u>, Ozan Candogan, *ACM Conference on Economics and Computation (EC)*, 2026.
 
 <!-- * "A Multistage Stochastic Integer Programming Approach to Distributed Operating Room Scheduling", <u>A. Deza</u>, **C. Guo**, M. Bodur, in preparation.
 

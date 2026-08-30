@@ -19,7 +19,7 @@ layout: default
 
     * Appeared as a featured article in the May-June 2026 issue.
 
-3. "Risk-Aware Security-Constrained Unit Commitment", Daniel Bienstock, Yury Dvorkin, **Cheng Guo**\*, Robert Mieth, <u>Jiayi Wang</u>, *IEEE Transactions on Energy Markets, Policy, and Regulation*, 2024. [[<u>paper</u>](https://ieeexplore.ieee.org/abstract/document/10684133)][[<u>talk</u>](https://www.youtube.com/watch?v=rF6m1NceJPA&list=PLkQG_IUzu-IG_357Wmy2lyGUMWqf6E1mF&index=2)][[<u>slides</u>](/docs/SCUC_slides.pdf)]
+3. "Risk-Aware Security-Constrained Unit Commitment: Taming the Curse of Real-Time Volatility and Consumer Exposure", Daniel Bienstock, Yury Dvorkin, **Cheng Guo**\*, Robert Mieth, <u>Jiayi Wang</u>, *IEEE Transactions on Energy Markets, Policy, and Regulation*, 2024. [[<u>paper</u>](https://ieeexplore.ieee.org/abstract/document/10684133)][[<u>talk</u>](https://www.youtube.com/watch?v=rF6m1NceJPA&list=PLkQG_IUzu-IG_357Wmy2lyGUMWqf6E1mF&index=2)][[<u>slides</u>](/docs/SCUC_slides.pdf)]
 
 2. “Generation Expansion Planning with Revenue Adequacy Constraints”, **Cheng Guo**\*, Merve Bodur, Dimitri Papageorgiou, *Computers & Operations Research*, 2022. [[<u>paper</u>](https://www.sciencedirect.com/science/article/pii/S0305054822000363)][[<u>poster</u>](/docs/MINLP2019_Poster.pdf)]
 

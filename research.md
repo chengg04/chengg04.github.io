@@ -8,7 +8,7 @@ layout: default
 
 ### **Publications**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-6. "Networked Markets with Production and Edge Capacity Constraints: From Competitive Equilibria To Market Entry", **Cheng Guo**, <u>Jiayi Wang</u>, Ozan Candogan, *ACM Conference on Economics and Computation (EC)*, 2026. [[<u>longer version</u>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5558342)]
+6. "Networked Markets with Production and Edge Capacity Constraints: From Competitive Equilibria To Market Entry", **Cheng Guo**, <u>Jiayi Wang</u>, Ozan Candogan, *ACM Conference on Economics and Computation (EC)*, 2026. [[<u>full version</u>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5558342)]
 
 5. “Copositive Duality for Discrete Energy Markets”, **Cheng Guo**\*, Merve Bodur, Joshua A. Taylor, *Management Science*, 2026. [[<u>paper</u>](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.00906)][[<u>talk</u>](https://www.youtube.com/watch?v=eL3Y8RroEgQ)][[<u>slides (MIP Workshop)</u>](/docs/COPPricing_slides.pdf)]
 
@@ -26,6 +26,8 @@ layout: default
 1. “Logic-based Benders Decomposition and Binary Decision Diagram Based Approaches for Stochastic Distributed Operating Room Scheduling”, **Cheng Guo**\*, Merve Bodur, Dionne Aleman, David Urbach, *INFORMS Journal on Computing*, 2021.[[<u>paper</u>](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2020.1036)][[<u>poster</u>](/docs/sdors_poster.pdf)]
 
 ### **Preprints**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
+3. "Networked Cournot Competition under Congestion", **Cheng Guo**, <u>Jiayi Wang</u>, Ozan Candogan, submitted
+  - Conference version accepted at EC 2026. [[<u>paper</u>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5558342)]
 
 2. "Pricing Discrete and Nonlinear Markets With Semidefinite Relaxations", **Cheng Guo**, <u>Lauren Henderson</u>, Ryan Cory-Wright, Boshi Yang. [[<u>preprint</u>](https://arxiv.org/abs/2602.15722)]
 

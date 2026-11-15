@@ -27,7 +27,7 @@ Note that I am not the only person called Cheng Guo at Clemson University. There
 
 * Methodologies: Mixed-integer linear and nonlinear programming, Conic programming, Stochastic and robust optimization, Game theory, Decomposition algorithms.
 
-* Application areas: Power systems, Market design and pricing, Healthcare.
+* Application areas: Power systems, Large-scale networked systems, Market design and pricing, Healthcare.
 
 <!-- &nbsp; -->
 

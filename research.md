@@ -10,7 +10,7 @@ layout: default
 
 6. "Networked Markets with Production and Edge Capacity Constraints: From Competitive Equilibria To Market Entry", **Cheng Guo**, <u>Jiayi Wang</u>, Ozan Candogan, *ACM Conference on Economics and Computation (EC)*, 2026. [[<u>full version</u>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5558342)]
 
-5. “Copositive Duality for Discrete Energy Markets”, **Cheng Guo**\*, Merve Bodur, Joshua A. Taylor, *Management Science*, 2026. [[<u>paper</u>](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.00906)][[<u>talk</u>](https://www.youtube.com/watch?v=eL3Y8RroEgQ)][[<u>slides (MIP Workshop)</u>](/docs/COPPricing_slides.pdf)]
+5. “Copositive Duality for Discrete Energy Markets”, **Cheng Guo**\*, Merve Bodur, Joshua A. Taylor, *Management Science*, 2026. [[<u>paper</u>](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.00906)][[<u>talk</u>](https://www.youtube.com/watch?v=AxdN0-F3n_M&t=4s)][[<u>slides (MIP Workshop)</u>](/docs/COPPricing_slides.pdf)]
 
     * Previous version: “Copositive Duality for Discrete Markets and Games” [[<u>preprint</u>](https://arxiv.org/abs/2101.05379)][[<u>poster</u>](/docs/COP_Poster.pdf)]
     <!-- [[<u>talk (DOTs)</u>](https://www.youtube.com/watch?v=ihDWyAHSMJ4&t=1s&ab_channel=DiscreteOptimizationTalks)] -->

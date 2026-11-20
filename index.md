@@ -36,7 +36,7 @@ Note that I am not the only person called Cheng Guo at Clemson University. There
 ----------------
 ### **Upcoming Conferences and Presentations**{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
 
-* INFORMS Annual Meeting, San Francisco, CA (November, 2026)
+<!--* INFORMS Annual Meeting, San Francisco, CA (November, 2026)-->
 <!--
 * Ohio State University, ISE Seminar, Columbus, OH (October, 2026)
 
